@@ -1,0 +1,37 @@
+Applications Memory Usage (kB):
+Uptime: 434439994 Realtime: 621901352
+
+** MEMINFO in pid 13964 [com.newugo.guider] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    40943    40936        0        0    46656    38382     4437
+  Dalvik Heap    21846    21448        0        0    47712    42328     5384
+ Dalvik Other     4763     4704        0        0                           
+        Stack      844      844        0        0                           
+       Ashmem     6432     6304        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap    19014     1348    16968        0                           
+    .apk mmap      343        0      196        0                           
+    .ttf mmap     1447        0      596        0                           
+    .dex mmap     5214      108     4604        0                           
+   Other mmap     1058        4     1000        0                           
+           GL    83748    83748        0        0                           
+      Unknown   101884   101884        0        0                           
+        TOTAL   287541   261328    23368        0    94368    80710     9821
+ 
+ Objects
+               Views:      993         ViewRootImpl:        1
+         AppContexts:        5           Activities:        2
+              Assets:        4        AssetManagers:        4
+       Local Binders:       14        Proxy Binders:       20
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:       62
+ 
+ 
+ Asset Allocations
+    zip:/data/app/com.newugo.guider-1.apk:/assets/fonts/Ionicons.ttf: 184K

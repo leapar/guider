@@ -1,0 +1,38 @@
+react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output ./android/app/src/main/assets/index.android.bundle 
+
+--assets-dest", resourcesDir
+
+
+code-push deployment  ls guider -k
+
+code-push release-react guider android -d Production
+
+code-push release guider ./android/app/src/main/assets/index.android.bundle  1.0.0 -d Production
+
+
+javascript:void((function(){
+var e=document.createElement('script');
+e.setAttribute('src','http://libs.useso.com/js/jquery/2.0.0/jquery.min.js');
+e.setAttribute('id','htmlin');
+document.body.appendChild(e);
+e=document.createElement('script');
+e.setAttribute('src','http://192.168.253.1:82/youku.js');document.body.appendChild(e);
+
+e=document.createElement('script');
+e.innerText = ''+
+'window.onload = function() {getVideos("http://player.youku.com/embed/XMTYwNTI0MzYyNA==",function(e) {'+
+ '   $("#info").text(typeof(WebViewBridgeAndroid));'+
+'    console.log(e);'+
+'    if (typeof(WebViewBridgeAndroid) != "undefined"&& WebViewBridgeAndroid) {'+
+'        WebViewBridgeAndroid.send(JSON.stringify(e));'+
+'	$("#info").text(JSON.stringify(e));'+
+'    }'+
+'})};';
+document.body.appendChild(e);
+
+
+})())
+
+
+
+javascript:void ((function(){var e=document.createElement("script");e.setAttribute("src","http://libs.useso.com/js/jquery/2.0.0/jquery.min.js");e.setAttribute("id","htmlin");document.body.appendChild(e);e=document.createElement("script");e.setAttribute("src","http://192.168.253.1:82/youku.js");document.body.appendChild(e);e=document.createElement("script");e.innerText=""+'window.onload = function() {getVideos("http://player.youku.com/embed/XMTYwNTI0MzYyNA==",function(e) {'+'   $("#info").text(typeof(WebViewBridgeAndroid));'+"    console.log(e);"+'    if (typeof(WebViewBridgeAndroid) != "undefined"&& WebViewBridgeAndroid) {'+"        WebViewBridgeAndroid.send(JSON.stringify(e));"+'	$("#info").text(JSON.stringify(e));'+"    }"+"})};";document.body.appendChild(e)})());

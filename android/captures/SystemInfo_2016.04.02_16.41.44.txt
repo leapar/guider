@@ -1,0 +1,1695 @@
+AGGREGATED OVER LAST 24 HOURS:
+  * com.huawei.ca / u0a38:
+           TOTAL: 100% (5.5MB-6.2MB-6.8MB/4.6MB-5.3MB-5.8MB over 88)
+      Persistent: 100% (5.5MB-6.2MB-6.8MB/4.6MB-5.3MB-5.8MB over 88)
+  * com.iflytek.speechsuite / u0a115:
+           TOTAL: 100% (54MB-55MB-56MB/53MB-53MB-54MB over 58)
+         Service: 100% (54MB-55MB-56MB/53MB-53MB-54MB over 58)
+  * com.huawei.bd / 1000:
+           TOTAL: 100% (8.7MB-9.2MB-9.9MB/8.2MB-8.6MB-9.2MB over 58)
+         Service: 100% (8.7MB-9.2MB-9.9MB/8.2MB-8.6MB-9.2MB over 58)
+  * com.huawei.android.powermonitor / 1000:
+           TOTAL: 100% (8.2MB-9.6MB-12MB/7.6MB-9.0MB-11MB over 88)
+      Persistent: 100% (8.2MB-9.6MB-12MB/7.6MB-9.0MB-11MB over 88)
+  * com.huawei.motionservice / u0a46:
+           TOTAL: 100% (5.6MB-7.0MB-10MB/5.1MB-6.0MB-9.4MB over 108)
+          Imp Fg: 0.08%
+         Service: 100% (5.6MB-7.0MB-10MB/5.1MB-6.0MB-9.4MB over 108)
+  * com.huawei.dataservicediagnose / 1000:
+           TOTAL: 100% (5.3MB-5.5MB-5.7MB/4.7MB-4.8MB-4.9MB over 59)
+          Imp Fg: 0.01%
+         Service: 100% (5.3MB-5.5MB-5.7MB/4.7MB-4.8MB-4.9MB over 59)
+  * android.process.acore / u0a0:
+           TOTAL: 100% (14MB-27MB-69MB/13MB-24MB-62MB over 88)
+          Imp Fg: 24% (14MB-21MB-64MB/14MB-19MB-57MB over 19)
+         Service: 76% (14MB-29MB-69MB/13MB-26MB-62MB over 69)
+  * com.android.keyguard / 1000:
+           TOTAL: 100% (107MB-117MB-133MB/105MB-116MB-132MB over 90)
+      Persistent: 100% (107MB-117MB-133MB/105MB-116MB-132MB over 90)
+  * com.amap.android.location / u0a15:
+           TOTAL: 100% (8.5MB-8.7MB-9.1MB/7.9MB-8.1MB-8.4MB over 88)
+      Persistent: 100% (8.5MB-8.7MB-9.1MB/7.9MB-8.1MB-8.4MB over 88)
+  * com.huawei.hwid:remote / u0a43:
+           TOTAL: 100% (5.4MB-5.6MB-6.2MB/4.9MB-4.9MB-4.9MB over 90)
+          Imp Fg: 100% (5.4MB-5.6MB-6.2MB/4.9MB-4.9MB-4.9MB over 90)
+  * com.huawei.android.pushagent.PushService / 1000:
+           TOTAL: 100% (7.3MB-7.8MB-8.3MB/6.1MB-6.6MB-7.1MB over 58)
+         Service: 100% (7.3MB-7.8MB-8.3MB/6.1MB-6.6MB-7.1MB over 58)
+  * com.cootek.smartdialer_oem_module / u0a77:
+           TOTAL: 100% (7.7MB-8.5MB-9.4MB/6.8MB-7.5MB-8.3MB over 90)
+          Imp Fg: 100% (7.7MB-8.5MB-9.4MB/6.8MB-7.5MB-8.3MB over 90)
+  * com.huawei.floatMms / u0a41:
+           TOTAL: 100% (17MB-17MB-20MB/16MB-16MB-19MB over 58)
+         Service: 100% (17MB-17MB-20MB/16MB-16MB-19MB over 58)
+  * com.huawei.cloudwifi / u0a87:
+           TOTAL: 100% (8.2MB-9.3MB-11MB/6.9MB-8.5MB-9.7MB over 58)
+         Service: 100% (8.2MB-9.3MB-11MB/6.9MB-8.5MB-9.7MB over 58)
+  * com.huawei.lcagent / 1000:
+           TOTAL: 100% (5.6MB-6.5MB-7.2MB/5.2MB-5.9MB-6.5MB over 65)
+          Imp Fg: 100% (5.6MB-6.5MB-7.2MB/5.2MB-5.9MB-6.5MB over 65)
+  * com.android.phone / 1001:
+           TOTAL: 100% (38MB-42MB-48MB/37MB-40MB-46MB over 88)
+      Persistent: 100% (38MB-42MB-48MB/37MB-40MB-46MB over 88)
+  * com.android.contacts / u0a0:
+           TOTAL: 100% (47MB-52MB-71MB/45MB-50MB-68MB over 62)
+      Persistent: 100% (47MB-52MB-71MB/45MB-50MB-68MB over 62)
+  * com.huawei.hwid / u0a43:
+           TOTAL: 100% (14MB-15MB-16MB/13MB-14MB-15MB over 68)
+          Imp Fg: 0.03%
+         Service: 100% (14MB-15MB-16MB/13MB-14MB-15MB over 68)
+  * com.google.process.location / u0a9:
+           TOTAL: 100% (12MB-13MB-14MB/11MB-12MB-13MB over 64)
+          Imp Bg: 100% (12MB-13MB-14MB/11MB-12MB-13MB over 64)
+         Service: 0.00%
+  * system / 1000:
+           TOTAL: 100% (54MB-59MB-67MB/51MB-56MB-64MB over 90)
+      Persistent: 100% (54MB-59MB-67MB/51MB-56MB-64MB over 90)
+  * com.huawei.geofence / 1000:
+           TOTAL: 100% (2.9MB-3.0MB-3.1MB/2.1MB-2.1MB-2.1MB over 65)
+          Imp Bg: 100% (2.9MB-3.0MB-3.1MB/2.1MB-2.1MB-2.1MB over 65)
+  * com.baidu.input_huawei / u0a24:
+           TOTAL: 100% (25MB-31MB-35MB/24MB-30MB-33MB over 65)
+          Imp Fg: 100% (25MB-31MB-35MB/24MB-30MB-33MB over 65)
+  * com.huawei.android.ds / 1001:
+           TOTAL: 100% (8.6MB-9.3MB-9.6MB/7.5MB-8.3MB-8.6MB over 65)
+          Imp Fg: 0.03%
+         Service: 100% (8.6MB-9.3MB-9.6MB/7.5MB-8.3MB-8.6MB over 65)
+  * com.google.android.gms.wearable / u0a9:
+           TOTAL: 100% (5.7MB-5.9MB-6.0MB/5.2MB-5.2MB-5.3MB over 58)
+         Service: 100% (5.7MB-5.9MB-6.0MB/5.2MB-5.2MB-5.3MB over 58)
+  * com.huawei.powergenie / 1000:
+           TOTAL: 100% (7.6MB-7.9MB-8.5MB/6.7MB-7.0MB-7.5MB over 88)
+      Persistent: 100% (7.6MB-7.9MB-8.5MB/6.7MB-7.0MB-7.5MB over 88)
+  * com.android.smspush / u0a80:
+           TOTAL: 100% (2.7MB-2.8MB-3.0MB/2.0MB-2.0MB-2.0MB over 90)
+          Imp Fg: 100% (2.7MB-2.8MB-3.0MB/2.0MB-2.0MB-2.0MB over 90)
+  * com.huawei.systemmanager:service / 1000:
+           TOTAL: 100% (24MB-26MB-29MB/23MB-24MB-27MB over 65)
+          Imp Fg: 100% (24MB-26MB-29MB/23MB-24MB-27MB over 65)
+  * org.simalliance.openmobileapi.service:remote / 1050:
+           TOTAL: 100% (4.4MB-4.5MB-4.6MB/3.9MB-3.9MB-4.0MB over 58)
+         Service: 100% (4.4MB-4.5MB-4.6MB/3.9MB-3.9MB-4.0MB over 58)
+  * com.huawei.bone:PhoneService / u0a37:
+           TOTAL: 100% (7.2MB-7.8MB-9.0MB/5.9MB-6.5MB-7.7MB over 58)
+         Service: 100% (7.2MB-7.8MB-9.0MB/5.9MB-6.5MB-7.7MB over 58)
+  * com.vlife.huawei.wallpaper / u0a20:
+           TOTAL: 100% (7.8MB-8.5MB-9.0MB/7.1MB-7.9MB-8.3MB over 90)
+      Persistent: 100% (7.8MB-8.5MB-9.0MB/7.1MB-7.9MB-8.3MB over 90)
+  * com.google.process.gapps / u0a9:
+           TOTAL: 100% (11MB-11MB-12MB/10MB-11MB-11MB over 62)
+          Imp Fg: 8.1% (11MB-11MB-12MB/10MB-11MB-11MB over 6)
+          Imp Bg: 0.60% (12MB-12MB-12MB/11MB-11MB-11MB over 2)
+         Service: 91% (11MB-11MB-12MB/10MB-11MB-11MB over 54)
+  * com.netease.pomelo.news.push.messageservice_V1 / u0a101:
+           TOTAL: 100% (5.7MB-6.2MB-6.7MB/4.3MB-4.8MB-5.2MB over 68)
+          Imp Fg: 3.1% (6.4MB-6.5MB-6.7MB/5.1MB-5.1MB-5.2MB over 4)
+          Imp Bg: 0.00%
+         Service: 97% (5.7MB-6.2MB-6.5MB/4.3MB-4.8MB-5.1MB over 64)
+      Service Rs: 0.01%
+  * com.netease.newsreader.activity:ajmd / u0a101:
+           TOTAL: 100% (5.7MB-9.8MB-10MB/4.2MB-8.1MB-8.6MB over 56)
+         Service: 100% (5.7MB-9.8MB-10MB/4.2MB-8.1MB-8.6MB over 56)
+      Service Rs: 0.10%
+  * com.tencent.mtt:service / u0a89:
+           TOTAL: 98% (12MB-14MB-16MB/10MB-12MB-14MB over 59)
+          Imp Fg: 5.2% (14MB-14MB-15MB/11MB-12MB-12MB over 5)
+         Service: 93% (12MB-14MB-16MB/10MB-12MB-14MB over 54)
+      Service Rs: 0.01%
+        Receiver: 0.00%
+        (Cached): 1.2% (6.3MB-6.3MB-6.3MB/4.9MB-4.9MB-4.9MB over 1)
+  * com.tencent.mtt / u0a89:
+           TOTAL: 98% (5.6MB-42MB-279MB/4.0MB-40MB-276MB over 65)
+             Top: 5.2% (86MB-205MB-279MB/82MB-202MB-276MB over 11)
+          Imp Fg: 0.04%
+         Service: 93% (5.6MB-9.0MB-14MB/4.0MB-7.5MB-12MB over 54)
+      Service Rs: 0.01%
+        (Cached): 0.01%
+  * com.android.systemui / u0a76:
+           TOTAL: 97% (59MB-99MB-134MB/58MB-96MB-131MB over 88)
+      Persistent: 97% (59MB-99MB-134MB/58MB-96MB-131MB over 88)
+  * com.tencent.mobileqq:MSF / u0a83:
+           TOTAL: 94% (12MB-14MB-16MB/10MB-12MB-13MB over 114)
+          Imp Fg: 35% (12MB-14MB-16MB/10MB-12MB-13MB over 78)
+          Imp Bg: 0.01%
+         Service: 58% (12MB-14MB-16MB/10MB-12MB-13MB over 36)
+      Service Rs: 0.02%
+        Receiver: 0.02%
+        (Cached): 6.1% (13MB-13MB-14MB/9.7MB-10MB-11MB over 5)
+  * com.qq.qcloud:wns / u0a108:
+           TOTAL: 67% (7.6MB-8.8MB-11MB/6.0MB-7.3MB-9.3MB over 38)
+         Service: 67% (7.6MB-8.8MB-11MB/6.0MB-7.3MB-9.3MB over 38)
+      Service Rs: 0.00%
+  * com.google.android.gms / u0a9:
+           TOTAL: 53% (18MB-19MB-20MB/17MB-18MB-20MB over 40)
+             Top: 0.43% (19MB-19MB-19MB/18MB-18MB-18MB over 2)
+          Imp Fg: 7.7% (18MB-19MB-19MB/18MB-18MB-18MB over 7)
+          Imp Bg: 0.60% (19MB-20MB-20MB/18MB-19MB-19MB over 2)
+         Service: 44% (18MB-19MB-20MB/17MB-18MB-20MB over 29)
+        Receiver: 0.14%
+        (Cached): 47% (18MB-19MB-20MB/17MB-18MB-19MB over 63)
+  * com.taobao.taobao / u0a104:
+           TOTAL: 51% (32MB-36MB-40MB/28MB-33MB-38MB over 47)
+         Service: 51% (32MB-36MB-40MB/28MB-33MB-38MB over 47)
+      Service Rs: 0.00%
+        Receiver: 0.49%
+        (Cached): 0.00%
+  * com.qq.qcloud / u0a108:
+           TOTAL: 41% (10MB-11MB-12MB/9.0MB-9.5MB-10MB over 27)
+         Service: 41% (10MB-11MB-12MB/9.0MB-9.5MB-10MB over 27)
+      Service Rs: 0.00%
+        Receiver: 0.01%
+        (Cached): 16% (9.9MB-11MB-12MB/8.3MB-9.5MB-11MB over 10)
+  * com.eg.android.AlipayGphone / u0a208:
+           TOTAL: 37% (22MB-61MB-183MB/18MB-57MB-176MB over 40)
+             Top: 2.6% (68MB-156MB-183MB/64MB-150MB-176MB over 10)
+          Imp Fg: 0.14% (162MB-162MB-162MB/156MB-156MB-156MB over 1)
+         Service: 34% (22MB-25MB-30MB/18MB-21MB-26MB over 29)
+      Service Rs: 0.07%
+  * com.eg.android.AlipayGphone:push / u0a208:
+           TOTAL: 36% (12MB-13MB-16MB/8.4MB-9.7MB-12MB over 31)
+             Top: 0.00%
+          Imp Fg: 2.7% (15MB-16MB-16MB/12MB-12MB-12MB over 2)
+         Service: 34% (12MB-13MB-15MB/8.4MB-9.5MB-11MB over 29)
+      Service Rs: 0.00%
+  * com.tencent.mobileqq / u0a83:
+           TOTAL: 36% (48MB-79MB-127MB/45MB-75MB-122MB over 249)
+             Top: 2.3% (85MB-108MB-127MB/82MB-102MB-122MB over 10)
+          Imp Fg: 33% (48MB-78MB-119MB/45MB-73MB-114MB over 238)
+          Imp Bg: 0.01%
+         Service: 0.26% (97MB-97MB-97MB/91MB-91MB-91MB over 1)
+      Service Rs: 0.01%
+        Receiver: 0.05%
+        (Cached): 63% (8.0MB-72MB-108MB/5.7MB-68MB-106MB over 90)
+  * com.taobao.taobao:channel / u0a104:
+           TOTAL: 35% (17MB-18MB-19MB/13MB-13MB-14MB over 27)
+         Service: 35% (17MB-18MB-19MB/13MB-13MB-14MB over 27)
+      Service Rs: 0.01%
+  * com.huawei.android.launcher / u0a44:
+           TOTAL: 29% (73MB-154MB-183MB/70MB-153MB-182MB over 84)
+             Top: 29% (73MB-154MB-183MB/70MB-153MB-182MB over 84)
+          Imp Fg: 0.00%
+          Imp Bg: 0.00%
+         Service: 0.00%
+        Receiver: 0.05%
+          (Home): 71% (49MB-146MB-169MB/48MB-144MB-166MB over 88)
+  * com.tencent.mm / u0a109:
+           TOTAL: 29% (81MB-101MB-143MB/77MB-97MB-137MB over 53)
+             Top: 8.7% (81MB-103MB-143MB/77MB-98MB-137MB over 24)
+          Imp Fg: 20% (87MB-99MB-112MB/83MB-95MB-107MB over 29)
+         Service: 0.02%
+      Service Rs: 0.00%
+        (Cached): 0.00%
+  * com.tencent.mm:push / u0a109:
+           TOTAL: 29% (11MB-12MB-14MB/9.0MB-9.4MB-9.9MB over 19)
+          Imp Fg: 29% (11MB-12MB-14MB/9.0MB-9.4MB-9.9MB over 19)
+         Service: 0.00%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+  * com.tencent.mm:exdevice / u0a109:
+           TOTAL: 28% (11MB-11MB-12MB/8.7MB-8.9MB-9.6MB over 45)
+          Imp Fg: 28% (11MB-11MB-12MB/8.7MB-8.9MB-9.6MB over 45)
+         Service: 0.19%
+      Service Rs: 0.00%
+  * cn.wps.moffice_eng:pushservice / u0a217:
+           TOTAL: 25% (11MB-12MB-13MB/8.3MB-9.4MB-12MB over 10)
+         Service: 25% (11MB-12MB-13MB/8.3MB-9.4MB-12MB over 10)
+      Service Rs: 0.00%
+  * com.ximalaya.ting.android:pushservice / u0a245:
+           TOTAL: 25% (11MB-12MB-12MB/8.8MB-9.1MB-9.6MB over 10)
+         Service: 25% (11MB-12MB-12MB/8.8MB-9.1MB-9.6MB over 10)
+      Service Rs: 0.00%
+  * com.tencent.mobileqq:qzone / u0a83:
+           TOTAL: 24% (17MB-43MB-90MB/13MB-37MB-85MB over 18)
+             Top: 0.19% (82MB-82MB-82MB/76MB-76MB-76MB over 1)
+         Service: 24% (17MB-41MB-90MB/13MB-35MB-85MB over 17)
+      Service Rs: 0.04%
+        (Cached): 0.03%
+  * com.android.mediacenter.localmusic.mediaplaybackservice / u0a45:
+           TOTAL: 24% (19MB-20MB-21MB/16MB-16MB-18MB over 16)
+          Imp Fg: 0.87% (21MB-21MB-21MB/18MB-18MB-18MB over 1)
+         Service: 23% (19MB-19MB-20MB/16MB-16MB-16MB over 15)
+      Service Rs: 0.00%
+  * com.huawei.android.airsharing / 1000:
+           TOTAL: 24% (5.7MB-7.8MB-8.3MB/4.4MB-6.6MB-7.2MB over 18)
+          Imp Fg: 0.84% (5.7MB-5.9MB-6.0MB/4.4MB-4.7MB-5.0MB over 2)
+         Service: 23% (7.7MB-8.1MB-8.3MB/6.6MB-6.9MB-7.2MB over 16)
+        (Cached): 8.7% (0.00-6.5MB-8.6MB/0.00-5.8MB-7.9MB over 4)
+  * com.twitter.android / u0a244:
+           TOTAL: 21% (21MB-24MB-28MB/20MB-23MB-27MB over 10)
+          Imp Bg: 19% (21MB-24MB-28MB/20MB-23MB-27MB over 8)
+         Service: 1.8% (22MB-25MB-28MB/21MB-23MB-26MB over 2)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 26% (20MB-26MB-29MB/20MB-25MB-27MB over 38)
+  * air.tv.douyu.android / u0a107:
+           TOTAL: 17% (7.1MB-133MB-194MB/5.1MB-131MB-191MB over 31)
+             Top: 11% (84MB-174MB-194MB/81MB-172MB-191MB over 22)
+         Service: 4.9% (7.1MB-33MB-93MB/5.1MB-30MB-87MB over 9)
+      Service Rs: 1.5%
+        (Cached): 1.0% (9.8MB-9.8MB-9.9MB/7.6MB-7.6MB-7.6MB over 2)
+  * com.netease.pris:push / u0a102:
+           TOTAL: 14% (6.1MB-7.2MB-7.5MB/4.5MB-5.6MB-5.9MB over 8)
+         Service: 14% (6.1MB-7.2MB-7.5MB/4.5MB-5.6MB-5.9MB over 8)
+      Service Rs: 0.00%
+  * com.huawei.appmarket / u0a10:
+           TOTAL: 14% (8.2MB-54MB-75MB/7.2MB-52MB-73MB over 8)
+             Top: 0.41% (60MB-66MB-75MB/58MB-64MB-73MB over 3)
+          Imp Fg: 0.00%
+         Service: 13% (8.2MB-46MB-62MB/7.2MB-45MB-60MB over 5)
+      Service Rs: 0.05%
+        (Cached): 0.11%
+  * com.newugo.guider / u0a253:
+           TOTAL: 13% (2.1MB-130MB-278MB/1.3MB-129MB-277MB over 28)
+             Top: 13% (2.1MB-130MB-278MB/1.3MB-129MB-277MB over 28)
+      (Last Act): 2.1% (78MB-117MB-152MB/76MB-115MB-150MB over 5)
+        (Cached): 0.82% (125MB-138MB-152MB/124MB-137MB-150MB over 4)
+  * android.process.media / u0a4:
+           TOTAL: 11% (7.3MB-8.8MB-28MB/6.3MB-7.8MB-27MB over 19)
+             Top: 0.01%
+          Imp Fg: 0.24%
+         Service: 11% (7.3MB-8.8MB-28MB/6.3MB-7.8MB-27MB over 19)
+        Receiver: 0.01%
+        (Cached): 84% (5.6MB-10MB-27MB/4.8MB-9.4MB-26MB over 118)
+  * com.qzone:service / u0a136:
+           TOTAL: 11% (13MB-13MB-14MB/11MB-11MB-11MB over 20)
+          Imp Fg: 11% (13MB-13MB-14MB/11MB-11MB-11MB over 20)
+         Service: 0.06%
+      Service Rs: 0.00%
+  * com.huawei.hisuite / u0a222:
+           TOTAL: 10% (4.0MB-4.4MB-5.0MB/3.1MB-3.2MB-3.9MB over 10)
+          Imp Fg: 10% (4.0MB-4.4MB-5.0MB/3.1MB-3.2MB-3.9MB over 10)
+         Service: 0.00%
+      Service Rs: 0.00%
+        Receiver: 0.02%
+        (Cached): 71% (2.3MB-4.2MB-5.4MB/1.4MB-3.3MB-4.8MB over 53)
+  * com.tencent.mobileqq:TMAssistantDownloadSDKService / u0a83:
+           TOTAL: 8.9% (12MB-14MB-16MB/8.7MB-11MB-12MB over 28)
+             Top: 1.1% (12MB-13MB-15MB/9.2MB-11MB-12MB over 7)
+          Imp Fg: 7.7% (12MB-14MB-16MB/8.7MB-11MB-12MB over 20)
+         Service: 0.05% (15MB-15MB-15MB/12MB-12MB-12MB over 1)
+        Receiver: 0.00%
+        (Cached): 20% (14MB-15MB-17MB/9.3MB-11MB-12MB over 21)
+  * com.teambition.talk:pushservice / u0a54:
+           TOTAL: 8.8% (10MB-11MB-11MB/7.2MB-7.8MB-8.3MB over 4)
+         Service: 8.8% (10MB-11MB-11MB/7.2MB-7.8MB-8.3MB over 4)
+      Service Rs: 0.00%
+  * com.tencent.androidqqmail:Push / u0a173:
+           TOTAL: 7.7% (10MB-15MB-23MB/5.3MB-11MB-21MB over 23)
+          Imp Fg: 7.6% (15MB-17MB-23MB/9.3MB-12MB-21MB over 13)
+         Service: 0.10% (10MB-13MB-18MB/5.3MB-9.7MB-17MB over 10)
+      Service Rs: 0.01%
+  * com.teambition.talk / u0a54:
+           TOTAL: 7.2% (105MB-116MB-119MB/102MB-112MB-115MB over 11)
+             Top: 4.8% (112MB-117MB-119MB/108MB-113MB-115MB over 10)
+         Service: 2.5% (105MB-105MB-105MB/102MB-102MB-102MB over 1)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 1.6% (9.3MB-9.3MB-9.3MB/6.3MB-6.3MB-6.3MB over 1)
+  * org.getlantern.firetweet / u0a106:
+           TOTAL: 6.5% (69MB-105MB-154MB/67MB-103MB-151MB over 12)
+             Top: 6.5% (69MB-105MB-154MB/67MB-103MB-151MB over 12)
+         Service: 0.01%
+      (Last Act): 0.05% (134MB-134MB-134MB/132MB-132MB-132MB over 1)
+        (Cached): 0.02%
+  * com.sdu.didi.psnger / u0a117:
+           TOTAL: 4.7% (32MB-35MB-40MB/30MB-32MB-37MB over 11)
+         Service: 4.7% (32MB-35MB-40MB/30MB-32MB-37MB over 11)
+      Service Rs: 0.05%
+  * com.sdu.didi.psnger:pushservice / u0a117:
+           TOTAL: 4.6% (8.1MB-8.7MB-9.3MB/5.9MB-6.4MB-6.9MB over 4)
+         Service: 4.6% (8.1MB-8.7MB-9.3MB/5.9MB-6.4MB-6.9MB over 4)
+      Service Rs: 0.02%
+  * com.netease.newsreader.activity / u0a101:
+           TOTAL: 4.5% (14MB-105MB-181MB/12MB-102MB-177MB over 8)
+             Top: 3.8% (39MB-118MB-181MB/37MB-115MB-177MB over 7)
+          Imp Bg: 0.01%
+         Service: 0.67% (14MB-14MB-14MB/12MB-12MB-12MB over 1)
+        Receiver: 0.04%
+      (Last Act): 0.01%
+        (Cached): 90% (12MB-47MB-125MB/10MB-45MB-122MB over 125)
+  * com.qzone / u0a136:
+           TOTAL: 3.3% (106MB-134MB-232MB/102MB-131MB-229MB over 9)
+             Top: 2.0% (112MB-138MB-232MB/109MB-135MB-229MB over 7)
+          Imp Fg: 0.02%
+         Service: 1.3% (106MB-121MB-136MB/102MB-117MB-132MB over 2)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 7.7% (26MB-27MB-28MB/23MB-24MB-26MB over 8)
+  * air.tv.douyu.android:push / u0a107:
+           TOTAL: 3.1% (11MB-12MB-13MB/9.0MB-11MB-12MB over 8)
+         Service: 3.1% (11MB-12MB-13MB/9.0MB-11MB-12MB over 8)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 3.5% (7.4MB-8.8MB-10MB/5.3MB-6.6MB-7.8MB over 2)
+  * com.vlife.huawei.wallpaper:main / u0a20:
+           TOTAL: 2.9%
+         Service: 2.8%
+        Receiver: 0.10%
+        (Cached): 6.3% (4.0MB-4.6MB-6.1MB/2.8MB-3.5MB-5.6MB over 9)
+  * com.tuicool.activity / u0a118:
+           TOTAL: 2.7% (69MB-94MB-118MB/66MB-91MB-115MB over 6)
+             Top: 1.7% (69MB-91MB-118MB/66MB-88MB-115MB over 5)
+         Service: 0.96% (110MB-110MB-110MB/107MB-107MB-107MB over 1)
+  * com.autonavi.minimap:locationservice / u0a91:
+           TOTAL: 2.7% (8.8MB-9.3MB-10MB/7.6MB-8.0MB-8.5MB over 7)
+             Top: 2.5% (8.8MB-9.2MB-9.7MB/7.6MB-7.9MB-8.2MB over 5)
+          Imp Fg: 0.14% (9.3MB-9.7MB-10MB/8.0MB-8.3MB-8.5MB over 2)
+         Service: 0.00%
+        (Cached): 0.32% (11MB-11MB-11MB/9.5MB-9.5MB-9.5MB over 2)
+  * com.tencent.mobileqq:web / u0a83:
+           TOTAL: 2.3% (114MB-159MB-222MB/107MB-153MB-216MB over 6)
+             Top: 2.2% (114MB-159MB-222MB/107MB-153MB-216MB over 6)
+        Receiver: 0.13%
+        (Cached): 19% (10MB-32MB-97MB/6.7MB-27MB-91MB over 20)
+  * com.tencent.mtt:VideoService / u0a89:
+           TOTAL: 1.9% (4.7MB-4.7MB-4.7MB/3.4MB-3.4MB-3.4MB over 4)
+             Top: 1.9% (4.7MB-4.7MB-4.7MB/3.4MB-3.4MB-3.4MB over 4)
+          Imp Fg: 0.02%
+         Service: 0.00%
+  * com.tencent.mm:tools / u0a109:
+           TOTAL: 1.4% (46MB-90MB-120MB/42MB-85MB-115MB over 3)
+             Top: 1.3% (46MB-90MB-120MB/42MB-85MB-115MB over 3)
+        Receiver: 0.08%
+      (Last Act): 0.01%
+        (Cached): 8.9% (24MB-34MB-87MB/21MB-31MB-82MB over 12)
+  * com.qzone:browser / u0a136:
+           TOTAL: 1.3% (24MB-111MB-197MB/21MB-106MB-192MB over 2)
+             Top: 0.05% (197MB-197MB-197MB/192MB-192MB-192MB over 1)
+         Service: 1.2% (24MB-24MB-24MB/21MB-21MB-21MB over 1)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 0.02% (89MB-89MB-89MB/84MB-84MB-84MB over 1)
+  * com.tencent.androidqqmail / u0a173:
+           TOTAL: 1.0%
+          Imp Bg: 1.00%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 4.7% (26MB-28MB-29MB/21MB-22MB-24MB over 10)
+  * com.android.mediacenter / u0a45:
+           TOTAL: 0.83% (57MB-68MB-86MB/54MB-65MB-83MB over 3)
+             Top: 0.53% (62MB-74MB-86MB/59MB-71MB-83MB over 2)
+         Service: 0.30% (57MB-57MB-57MB/54MB-54MB-54MB over 1)
+        Receiver: 0.00%
+        (Cached): 23% (38MB-46MB-57MB/35MB-42MB-54MB over 16)
+  * com.huawei.bone / u0a37:
+           TOTAL: 0.59%
+         Service: 0.34%
+        Receiver: 0.25%
+        (Cached): 99% (7.2MB-8.4MB-9.2MB/6.3MB-7.6MB-8.3MB over 102)
+  * com.huawei.systemmanager / 1000:
+           TOTAL: 0.51%
+             Top: 0.12%
+          Imp Fg: 0.04%
+         Service: 0.22%
+        Receiver: 0.13%
+      (Last Act): 0.55% (31MB-33MB-35MB/29MB-31MB-32MB over 2)
+        (Cached): 98% (7.6MB-25MB-34MB/6.0MB-23MB-32MB over 96)
+  * com.android.defcontainer / u0a3:
+           TOTAL: 0.47% (4.2MB-4.3MB-4.4MB/3.1MB-3.4MB-3.8MB over 2)
+          Imp Fg: 0.47% (4.2MB-4.3MB-4.4MB/3.1MB-3.4MB-3.8MB over 2)
+         Service: 0.00%
+        (Cached): 20% (2.9MB-4.1MB-4.6MB/2.0MB-3.3MB-4.0MB over 11)
+  * com.gitfeed / u0a248:
+           TOTAL: 0.42% (80MB-80MB-80MB/78MB-78MB-78MB over 1)
+             Top: 0.42% (80MB-80MB-80MB/78MB-78MB-78MB over 1)
+      (Last Act): 0.91% (124MB-124MB-124MB/122MB-122MB-122MB over 2)
+        (Cached): 0.02% (0.00-62MB-125MB/0.00-61MB-122MB over 2)
+  * com.android.deskclock / u0a40:
+           TOTAL: 0.41%
+        Receiver: 0.41%
+        (Cached): 15% (4.8MB-5.8MB-6.2MB/3.3MB-4.9MB-5.5MB over 11)
+  * com.huawei.android.totemweather / u0a60:
+           TOTAL: 0.40% (4.9MB-18MB-77MB/3.8MB-17MB-75MB over 6)
+             Top: 0.13% (4.9MB-24MB-77MB/3.8MB-23MB-75MB over 4)
+          Imp Fg: 0.14%
+         Service: 0.12% (6.7MB-7.3MB-7.9MB/5.9MB-6.5MB-7.0MB over 2)
+        Receiver: 0.01%
+          (Home): 0.00%
+        (Cached): 99% (4.2MB-10MB-27MB/3.0MB-9.0MB-25MB over 148)
+  * com.huawei.android.hwouc:hwbdservice / u0a48:
+           TOTAL: 0.36% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+         Service: 0.36% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+      Service Rs: 0.00%
+        (Cached): 62% (0.00-3.8MB-5.9MB/0.00-2.7MB-4.8MB over 63)
+  * com.rctzhihudaily / u0a110:
+           TOTAL: 0.35% (165MB-165MB-165MB/162MB-162MB-162MB over 1)
+             Top: 0.35% (165MB-165MB-165MB/162MB-162MB-162MB over 1)
+      (Last Act): 0.00%
+        (Cached): 0.00%
+  * com.huawei.KoBackup / 1001:
+           TOTAL: 0.33%
+         Service: 0.17%
+      Service Rs: 0.01%
+        Receiver: 0.14%
+  * com.android.packageinstaller / u0a71:
+           TOTAL: 0.32% (39MB-40MB-40MB/38MB-38MB-38MB over 2)
+             Top: 0.32% (39MB-40MB-40MB/38MB-38MB-38MB over 2)
+        (Cached): 17% (24MB-36MB-43MB/23MB-35MB-42MB over 8)
+  * com.huawei.android.thememanager / u0a56:
+           TOTAL: 0.29%
+         Service: 0.29%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 0.10%
+  * com.android.settings / 1000:
+           TOTAL: 0.29%
+             Top: 0.03%
+          Imp Fg: 0.11%
+        Receiver: 0.14%
+        (Cached): 100% (6.5MB-30MB-46MB/5.2MB-28MB-44MB over 81)
+  * com.android.providers.calendar / u0a28:
+           TOTAL: 0.29%
+         Service: 0.25%
+        Receiver: 0.04%
+        (Cached): 84% (3.4MB-5.3MB-7.1MB/2.5MB-4.5MB-6.5MB over 78)
+  * com.edcsc.wbus / u0a116:
+           TOTAL: 0.26% (92MB-92MB-92MB/91MB-91MB-91MB over 1)
+             Top: 0.26% (92MB-92MB-92MB/91MB-91MB-91MB over 1)
+      (Last Act): 0.00%
+        (Cached): 0.00%
+  * com.edcsc.wbus:umengService_v1 / u0a116:
+           TOTAL: 0.22% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+             Top: 0.00%
+          Imp Fg: 0.00%
+         Service: 0.21% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+      Service Rs: 0.00%
+  * com.tencent.mobileqq:picture / u0a83:
+           TOTAL: 0.21% (14MB-14MB-14MB/11MB-11MB-11MB over 1)
+         Service: 0.21% (14MB-14MB-14MB/11MB-11MB-11MB over 1)
+      Service Rs: 0.00%
+        (Cached): 0.00%
+  * com.android.browser:service / u0a2:
+           TOTAL: 0.21% (7.0MB-7.0MB-7.0MB/4.8MB-4.8MB-4.8MB over 1)
+             Top: 0.00%
+          Imp Fg: 0.12% (7.0MB-7.0MB-7.0MB/4.8MB-4.8MB-4.8MB over 1)
+         Service: 0.08%
+        Receiver: 0.01%
+        (Cached): 0.01%
+  * com.tencent.mobileqq:peak / u0a83:
+           TOTAL: 0.15% (44MB-44MB-44MB/39MB-39MB-39MB over 1)
+             Top: 0.10% (44MB-44MB-44MB/39MB-39MB-39MB over 1)
+         Service: 0.04%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 4.3% (13MB-16MB-26MB/9.8MB-13MB-22MB over 8)
+  * com.android.browser / u0a2:
+           TOTAL: 0.14% (88MB-88MB-88MB/85MB-85MB-85MB over 1)
+             Top: 0.13% (88MB-88MB-88MB/85MB-85MB-85MB over 1)
+          Imp Fg: 0.00%
+         Service: 0.00%
+        Receiver: 0.00%
+      (Last Act): 0.52% (59MB-59MB-59MB/57MB-57MB-57MB over 1)
+        (Cached): 2.8% (4.6MB-15MB-57MB/3.7MB-14MB-56MB over 5)
+  * com.eg.android.AlipayGphone:tools / u0a208:
+           TOTAL: 0.12%
+         Service: 0.11%
+      Service Rs: 0.01%
+        Receiver: 0.00%
+        (Cached): 36% (6.5MB-7.3MB-11MB/4.9MB-5.4MB-8.3MB over 45)
+  * com.huawei.android.hwouc / u0a48:
+           TOTAL: 0.11%
+         Service: 0.01%
+        Receiver: 0.11%
+        (Cached): 62% (0.00-4.6MB-7.2MB/0.00-3.6MB-6.6MB over 58)
+  * com.autonavi.xmgd.navigator:umengService_v1 / u0a86:
+           TOTAL: 0.11% (7.2MB-7.2MB-7.2MB/5.4MB-5.4MB-5.4MB over 1)
+          Imp Fg: 0.00%
+         Service: 0.11% (7.2MB-7.2MB-7.2MB/5.4MB-5.4MB-5.4MB over 1)
+      Service Rs: 0.00%
+  * com.example.android.notepad / u0a47:
+           TOTAL: 0.11%
+        Receiver: 0.11%
+        (Cached): 84% (2.9MB-4.0MB-5.5MB/2.0MB-3.2MB-4.8MB over 71)
+  * com.android.calendar / u0a27:
+           TOTAL: 0.09%
+         Service: 0.00%
+        Receiver: 0.08%
+        (Cached): 84% (5.1MB-6.7MB-8.4MB/4.0MB-5.8MB-7.7MB over 72)
+  * com.netease.pris / u0a102:
+           TOTAL: 0.08%
+         Service: 0.02%
+      Service Rs: 0.06%
+        Receiver: 0.00%
+        (Cached): 14% (12MB-12MB-13MB/10MB-11MB-11MB over 13)
+  * com.huawei.phoneservice:loguploadservice / u0a12:
+           TOTAL: 0.08%
+         Service: 0.05%
+      Service Rs: 0.02%
+        Receiver: 0.02%
+        (Cached): 52% (3.6MB-4.6MB-5.6MB/2.4MB-3.2MB-4.5MB over 91)
+  * com.android.email / u0a5:
+           TOTAL: 0.07%
+         Service: 0.05%
+        Receiver: 0.02%
+        (Cached): 69% (5.7MB-8.1MB-9.7MB/4.8MB-7.3MB-9.0MB over 78)
+  * com.huawei.android.totemweather:remote / u0a60:
+           TOTAL: 0.07%
+         Service: 0.07%
+        (Cached): 0.00%
+  * com.taobao.taobao:watchdog / u0a104:
+           TOTAL: 0.06%
+        Receiver: 0.06%
+        (Cached): 0.42% (11MB-11MB-11MB/8.0MB-8.0MB-8.0MB over 1)
+  * com.tencent.androidqqmail:Uninstall / u0a173:
+           TOTAL: 0.05%
+         Service: 0.05%
+      Service Rs: 0.00%
+        (Cached): 0.00%
+  * com.tencent.mm:sandbox / u0a109:
+           TOTAL: 0.05%
+         Service: 0.05%
+      Service Rs: 0.00%
+  * com.autonavi.minimap:LBSconnectionservice / u0a91:
+           TOTAL: 0.05%
+         Service: 0.05%
+        Receiver: 0.00%
+        (Cached): 26% (6.7MB-9.1MB-10MB/5.5MB-7.7MB-9.0MB over 32)
+  * com.huawei.phoneservice:usersurvey / u0a12:
+           TOTAL: 0.04%
+        Receiver: 0.04%
+        (Cached): 56% (3.5MB-4.3MB-6.0MB/2.4MB-3.0MB-5.3MB over 70)
+  * com.netease.newsreader.activity:sync / u0a101:
+           TOTAL: 0.03%
+          Imp Bg: 0.03%
+         Service: 0.00%
+        (Cached): 53% (4.9MB-5.5MB-6.6MB/3.7MB-4.1MB-5.4MB over 51)
+  * com.huawei.phoneservice / u0a12:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        (Cached): 18% (3.8MB-4.2MB-4.7MB/2.6MB-2.9MB-3.0MB over 37)
+  * com.edcsc.wbus:remote / u0a116:
+           TOTAL: 0.03%
+             Top: 0.02%
+          Imp Fg: 0.01%
+         Service: 0.00%
+        (Cached): 0.00%
+  * com.huawei.android.FloatTasks / u0a42:
+           TOTAL: 0.02% (2.5MB-2.5MB-2.5MB/1.5MB-1.5MB-1.5MB over 1)
+          Imp Fg: 0.02% (2.5MB-2.5MB-2.5MB/1.5MB-1.5MB-1.5MB over 1)
+        (Cached): 42% (2.1MB-3.4MB-3.9MB/1.5MB-2.5MB-3.3MB over 38)
+  * net.oschina.app / u0a128:
+           TOTAL: 0.02% (42MB-42MB-42MB/40MB-40MB-40MB over 1)
+             Top: 0.02% (42MB-42MB-42MB/40MB-40MB-40MB over 1)
+      (Last Act): 0.00% (44MB-44MB-44MB/41MB-41MB-41MB over 1)
+        (Cached): 0.00%
+  * com.huawei.gamecenter / u0a129:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 67% (3.3MB-3.6MB-4.3MB/2.4MB-2.7MB-3.0MB over 54)
+  * com.huawei.bone:pushservice / u0a37:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 82% (4.9MB-5.8MB-7.4MB/3.5MB-4.7MB-6.3MB over 60)
+  * com.huawei.gallery.photoshare / u0a92:
+           TOTAL: 0.01%
+         Service: 0.00%
+      Service Rs: 0.00%
+        Receiver: 0.01%
+        (Cached): 79% (2.9MB-3.7MB-6.6MB/2.0MB-2.7MB-5.9MB over 58)
+  * net.oschina.app:notice / u0a128:
+           TOTAL: 0.01% (7.7MB-7.7MB-7.7MB/5.3MB-5.3MB-5.3MB over 1)
+          Imp Fg: 0.01% (7.7MB-7.7MB-7.7MB/5.3MB-5.3MB-5.3MB over 1)
+         Service: 0.00%
+      Service Rs: 0.00%
+  * com.huawei.android.pushagent / u0a51:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (3.2MB-4.9MB-5.8MB/2.0MB-4.3MB-5.3MB over 82)
+  * com.ximalaya.ting.android / u0a245:
+           TOTAL: 0.01%
+         Service: 0.01%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 25% (10MB-11MB-12MB/7.6MB-8.7MB-9.5MB over 14)
+  * com.huawei.wallet / u0a99:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 63% (4.3MB-5.0MB-5.8MB/2.7MB-3.8MB-4.6MB over 48)
+  * com.huawei.vassistant / u0a58:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 50% (3.3MB-4.3MB-5.0MB/2.4MB-3.3MB-4.4MB over 37)
+  * com.huawei.remoteassistant:cmsservice / u0a96:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 70% (3.0MB-3.6MB-4.1MB/1.8MB-2.3MB-2.6MB over 57)
+  * com.huawei.android.hwouc:hwbd / u0a48:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 69% (2.5MB-3.1MB-3.7MB/1.6MB-1.9MB-2.8MB over 54)
+  * com.huawei.cloudwifi:pushservice / u0a87:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 29% (6.4MB-7.0MB-8.0MB/5.1MB-5.7MB-6.8MB over 15)
+  * com.huawei.hwvplayer / u0a13:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 64% (4.3MB-5.5MB-7.0MB/3.1MB-4.4MB-6.4MB over 51)
+  * cn.wps.moffice_eng / u0a217:
+           TOTAL: 0.01%
+         Service: 0.00%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 14% (10MB-10MB-10MB/7.9MB-8.0MB-8.2MB over 9)
+  * com.google.android.gms.ui / u0a9:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 15% (4.9MB-5.5MB-5.8MB/3.5MB-3.7MB-3.7MB over 5)
+  * com.qq.qcloud:monitor / u0a108:
+           TOTAL: 0.01%
+         Service: 0.00%
+      Service Rs: 0.00%
+        (Cached): 57% (0.00-2.2MB-5.2MB/0.00-1.1MB-3.2MB over 39)
+  * com.huawei.android.ds:pushservice / 1001:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 29% (4.7MB-5.3MB-6.4MB/3.6MB-4.2MB-4.8MB over 16)
+  * com.huawei.remoteassistant / u0a96:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 74% (3.1MB-3.7MB-4.2MB/2.0MB-2.4MB-2.6MB over 59)
+  * com.android.gallery3d / u0a8:
+           TOTAL: 0.00%
+         Service: 0.00%
+        (Cached): 18% (4.0MB-4.4MB-5.0MB/3.2MB-3.4MB-3.8MB over 10)
+  * com.android.exchange / u0a6:
+           TOTAL: 0.00%
+          Imp Fg: 0.00%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 1.8% (3.7MB-3.7MB-3.7MB/2.8MB-2.8MB-2.8MB over 1)
+  * com.huawei.hwvplayer:pushservice / u0a13:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 29% (4.3MB-4.9MB-5.5MB/3.1MB-3.7MB-4.3MB over 16)
+  * com.huawei.wallet:pushservice / u0a99:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 28% (3.8MB-4.7MB-5.8MB/2.9MB-3.7MB-4.7MB over 15)
+  * com.huawei.android.wfdft / u0a62:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 14% (2.9MB-4.0MB-4.5MB/2.0MB-3.1MB-3.9MB over 20)
+  * com.huawei.android.karaokeeffect / 1000:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 31% (2.8MB-3.1MB-3.4MB/1.9MB-2.1MB-2.3MB over 16)
+  * com.nuance.swype.emui / u0a82:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 28% (2.5MB-4.1MB-5.2MB/1.8MB-3.0MB-3.6MB over 16)
+  * com.autonavi.xmgd.navigator / u0a86:
+           TOTAL: 0.00%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 0.06%
+  * com.huawei.remoteassistant:pushservice / u0a96:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 28% (3.1MB-3.6MB-4.1MB/2.3MB-2.7MB-3.1MB over 15)
+  * com.android.keychain / 1000:
+           TOTAL: 0.00%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 17% (2.6MB-2.7MB-2.9MB/1.7MB-1.7MB-1.7MB over 6)
+  * com.android.inputmethod.latin / u0a63:
+           TOTAL: 0.00%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 3.9% (4.9MB-5.0MB-5.0MB/4.3MB-4.3MB-4.4MB over 3)
+  * com.android.huawei.projectmenu / 1000:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 26% (2.2MB-2.4MB-2.5MB/1.4MB-1.5MB-1.6MB over 11)
+  * com.huawei.appmarket:pushservice / u0a10:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 5.6% (4.4MB-4.4MB-4.4MB/3.3MB-3.3MB-3.3MB over 1)
+
+Run time Stats:
+  SOff/Norm: +2h54m10s124ms
+       Mod : +39s745ms
+  SOn /Norm: +2h58m7s954ms
+      TOTAL: +5h52m57s823ms
+
+          Start time: 2016-04-01 17:10:05
+  Total elapsed time: +23h31m32s972ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+  * com.huawei.hwid:remote / u0a43:
+           TOTAL: 100% (5.4MB-5.5MB-5.6MB/4.9MB-4.9MB-4.9MB over 33)
+          Imp Fg: 100% (5.4MB-5.5MB-5.6MB/4.9MB-4.9MB-4.9MB over 33)
+  * com.huawei.motionservice / u0a46:
+           TOTAL: 100% (5.9MB-7.0MB-9.4MB/5.3MB-6.2MB-7.8MB over 44)
+          Imp Fg: 0.12%
+         Service: 100% (5.9MB-7.0MB-9.4MB/5.3MB-6.2MB-7.8MB over 44)
+  * com.iflytek.speechsuite / u0a115:
+           TOTAL: 100% (55MB-56MB-56MB/53MB-54MB-54MB over 25)
+         Service: 100% (55MB-56MB-56MB/53MB-54MB-54MB over 25)
+  * com.huawei.systemmanager:service / 1000:
+           TOTAL: 100% (27MB-27MB-29MB/25MB-26MB-27MB over 25)
+          Imp Fg: 100% (27MB-27MB-29MB/25MB-26MB-27MB over 25)
+  * com.google.android.gms.wearable / u0a9:
+           TOTAL: 100% (5.8MB-5.9MB-6.0MB/5.3MB-5.3MB-5.3MB over 25)
+         Service: 100% (5.8MB-5.9MB-6.0MB/5.3MB-5.3MB-5.3MB over 25)
+  * com.baidu.input_huawei / u0a24:
+           TOTAL: 100% (26MB-32MB-34MB/25MB-31MB-33MB over 25)
+          Imp Fg: 100% (26MB-32MB-34MB/25MB-31MB-33MB over 25)
+  * system / 1000:
+           TOTAL: 100% (54MB-59MB-63MB/51MB-55MB-59MB over 33)
+      Persistent: 100% (54MB-59MB-63MB/51MB-55MB-59MB over 33)
+  * com.google.process.location / u0a9:
+           TOTAL: 100% (12MB-13MB-14MB/11MB-12MB-13MB over 24)
+          Imp Bg: 100% (12MB-13MB-14MB/11MB-12MB-13MB over 24)
+         Service: 0.00%
+  * com.huawei.hwid / u0a43:
+           TOTAL: 100% (14MB-15MB-16MB/13MB-14MB-14MB over 26)
+          Imp Fg: 0.04%
+         Service: 100% (14MB-15MB-16MB/13MB-14MB-14MB over 26)
+  * com.android.contacts / u0a0:
+           TOTAL: 100% (49MB-58MB-71MB/46MB-55MB-68MB over 25)
+      Persistent: 100% (49MB-58MB-71MB/46MB-55MB-68MB over 25)
+  * com.huawei.lcagent / 1000:
+           TOTAL: 100% (5.7MB-6.3MB-7.0MB/5.2MB-5.7MB-6.5MB over 25)
+          Imp Fg: 100% (5.7MB-6.3MB-7.0MB/5.2MB-5.7MB-6.5MB over 25)
+  * com.huawei.cloudwifi / u0a87:
+           TOTAL: 100% (9.3MB-10MB-11MB/8.2MB-9.2MB-9.7MB over 25)
+         Service: 100% (9.3MB-10MB-11MB/8.2MB-9.2MB-9.7MB over 25)
+  * com.cootek.smartdialer_oem_module / u0a77:
+           TOTAL: 100% (7.8MB-8.6MB-9.4MB/7.0MB-7.7MB-8.3MB over 33)
+          Imp Fg: 100% (7.8MB-8.6MB-9.4MB/7.0MB-7.7MB-8.3MB over 33)
+  * com.huawei.android.pushagent.PushService / 1000:
+           TOTAL: 100% (7.5MB-8.0MB-8.3MB/6.4MB-6.7MB-7.1MB over 25)
+         Service: 100% (7.5MB-8.0MB-8.3MB/6.4MB-6.7MB-7.1MB over 25)
+  * com.android.keyguard / 1000:
+           TOTAL: 100% (114MB-119MB-133MB/112MB-117MB-132MB over 33)
+      Persistent: 100% (114MB-119MB-133MB/112MB-117MB-132MB over 33)
+  * com.huawei.dataservicediagnose / 1000:
+           TOTAL: 100% (5.4MB-5.5MB-5.7MB/4.8MB-4.9MB-4.9MB over 25)
+         Service: 100% (5.4MB-5.5MB-5.7MB/4.8MB-4.9MB-4.9MB over 25)
+  * org.simalliance.openmobileapi.service:remote / 1050:
+           TOTAL: 100% (4.4MB-4.5MB-4.6MB/4.0MB-4.0MB-4.0MB over 25)
+         Service: 100% (4.4MB-4.5MB-4.6MB/4.0MB-4.0MB-4.0MB over 25)
+  * com.android.smspush / u0a80:
+           TOTAL: 100% (2.8MB-2.9MB-3.0MB/2.0MB-2.0MB-2.0MB over 33)
+          Imp Fg: 100% (2.8MB-2.9MB-3.0MB/2.0MB-2.0MB-2.0MB over 33)
+  * com.huawei.powergenie / 1000:
+           TOTAL: 100% (7.6MB-7.9MB-8.4MB/6.7MB-7.0MB-7.4MB over 33)
+      Persistent: 100% (7.6MB-7.9MB-8.4MB/6.7MB-7.0MB-7.4MB over 33)
+  * com.huawei.android.ds / 1001:
+           TOTAL: 100% (8.6MB-9.2MB-9.5MB/7.5MB-8.2MB-8.4MB over 24)
+          Imp Fg: 0.03%
+         Service: 100% (8.6MB-9.2MB-9.5MB/7.5MB-8.2MB-8.4MB over 24)
+  * com.huawei.geofence / 1000:
+           TOTAL: 100% (2.9MB-3.0MB-3.1MB/2.1MB-2.1MB-2.1MB over 25)
+          Imp Bg: 100% (2.9MB-3.0MB-3.1MB/2.1MB-2.1MB-2.1MB over 25)
+  * com.android.phone / 1001:
+           TOTAL: 100% (41MB-42MB-45MB/39MB-40MB-43MB over 33)
+      Persistent: 100% (41MB-42MB-45MB/39MB-40MB-43MB over 33)
+  * com.huawei.floatMms / u0a41:
+           TOTAL: 100% (17MB-17MB-18MB/16MB-17MB-17MB over 25)
+         Service: 100% (17MB-17MB-18MB/16MB-17MB-17MB over 25)
+  * com.amap.android.location / u0a15:
+           TOTAL: 100% (8.6MB-8.8MB-9.1MB/7.9MB-8.1MB-8.4MB over 33)
+      Persistent: 100% (8.6MB-8.8MB-9.1MB/7.9MB-8.1MB-8.4MB over 33)
+  * android.process.acore / u0a0:
+           TOTAL: 100% (14MB-16MB-17MB/14MB-15MB-16MB over 28)
+          Imp Fg: 57% (14MB-16MB-17MB/14MB-15MB-16MB over 14)
+         Service: 43% (14MB-16MB-17MB/14MB-15MB-16MB over 14)
+  * com.huawei.android.powermonitor / 1000:
+           TOTAL: 100% (9.2MB-10MB-12MB/8.6MB-9.7MB-11MB over 33)
+      Persistent: 100% (9.2MB-10MB-12MB/8.6MB-9.7MB-11MB over 33)
+  * com.huawei.bd / 1000:
+           TOTAL: 100% (8.7MB-8.9MB-9.3MB/8.2MB-8.3MB-8.5MB over 25)
+         Service: 100% (8.7MB-8.9MB-9.3MB/8.2MB-8.3MB-8.5MB over 25)
+  * com.huawei.ca / u0a38:
+           TOTAL: 100% (5.6MB-6.2MB-6.6MB/4.8MB-5.3MB-5.7MB over 33)
+      Persistent: 100% (5.6MB-6.2MB-6.6MB/4.8MB-5.3MB-5.7MB over 33)
+  * com.google.process.gapps / u0a9:
+           TOTAL: 100% (11MB-11MB-12MB/10MB-11MB-11MB over 22)
+          Imp Fg: 17% (11MB-12MB-12MB/10MB-11MB-11MB over 2)
+          Imp Bg: 1.9% (12MB-12MB-12MB/11MB-11MB-11MB over 2)
+         Service: 82% (11MB-11MB-12MB/10MB-11MB-11MB over 18)
+  * com.vlife.huawei.wallpaper / u0a20:
+           TOTAL: 100% (7.8MB-8.0MB-8.9MB/7.1MB-7.4MB-8.3MB over 33)
+      Persistent: 100% (7.8MB-8.0MB-8.9MB/7.1MB-7.4MB-8.3MB over 33)
+  * com.huawei.bone:PhoneService / u0a37:
+           TOTAL: 100% (7.5MB-8.1MB-9.0MB/6.2MB-6.8MB-7.7MB over 25)
+         Service: 100% (7.5MB-8.1MB-9.0MB/6.2MB-6.8MB-7.7MB over 25)
+  * com.netease.newsreader.activity:ajmd / u0a101:
+           TOTAL: 100% (7.1MB-9.8MB-10MB/5.4MB-8.1MB-8.6MB over 22)
+         Service: 100% (7.1MB-9.8MB-10MB/5.4MB-8.1MB-8.6MB over 22)
+      Service Rs: 0.16%
+  * com.netease.pomelo.news.push.messageservice_V1 / u0a101:
+           TOTAL: 100% (5.8MB-6.2MB-6.7MB/4.5MB-4.7MB-5.2MB over 26)
+          Imp Fg: 5.3% (6.7MB-6.7MB-6.7MB/5.2MB-5.2MB-5.2MB over 2)
+          Imp Bg: 0.00%
+         Service: 95% (5.8MB-6.1MB-6.5MB/4.5MB-4.7MB-5.1MB over 24)
+      Service Rs: 0.01%
+  * com.android.systemui / u0a76:
+           TOTAL: 100% (59MB-91MB-121MB/58MB-89MB-117MB over 33)
+      Persistent: 100% (59MB-91MB-121MB/58MB-89MB-117MB over 33)
+  * com.tencent.mtt:service / u0a89:
+           TOTAL: 96% (13MB-14MB-16MB/11MB-13MB-14MB over 25)
+          Imp Fg: 15% (14MB-14MB-15MB/12MB-12MB-12MB over 4)
+         Service: 81% (13MB-14MB-16MB/11MB-13MB-14MB over 21)
+      Service Rs: 0.01%
+        Receiver: 0.00%
+        (Cached): 3.8% (6.3MB-6.3MB-6.3MB/4.9MB-4.9MB-4.9MB over 1)
+  * com.tencent.mtt / u0a89:
+           TOTAL: 96% (5.6MB-72MB-279MB/4.0MB-70MB-276MB over 30)
+             Top: 15% (86MB-218MB-279MB/82MB-215MB-276MB over 9)
+          Imp Fg: 0.11%
+         Service: 81% (5.6MB-9.3MB-13MB/4.0MB-7.7MB-12MB over 21)
+      Service Rs: 0.00%
+        (Cached): 0.02%
+  * com.tencent.mobileqq:MSF / u0a83:
+           TOTAL: 89% (13MB-15MB-16MB/10MB-12MB-13MB over 44)
+          Imp Fg: 35% (13MB-15MB-16MB/10MB-12MB-13MB over 34)
+          Imp Bg: 0.02%
+         Service: 54% (14MB-15MB-16MB/11MB-12MB-13MB over 10)
+      Service Rs: 0.01%
+        Receiver: 0.01%
+        (Cached): 11% (14MB-14MB-14MB/11MB-11MB-11MB over 2)
+  * com.qq.qcloud / u0a108:
+           TOTAL: 84% (10MB-11MB-12MB/9.0MB-9.5MB-10MB over 22)
+         Service: 84% (10MB-11MB-12MB/9.0MB-9.5MB-10MB over 22)
+      Service Rs: 0.00%
+  * com.qq.qcloud:wns / u0a108:
+           TOTAL: 84% (7.6MB-8.7MB-9.9MB/6.0MB-7.4MB-8.6MB over 22)
+         Service: 84% (7.6MB-8.7MB-9.9MB/6.0MB-7.4MB-8.6MB over 22)
+      Service Rs: 0.00%
+  * com.tencent.mm / u0a109:
+           TOTAL: 70% (83MB-102MB-126MB/79MB-98MB-121MB over 39)
+             Top: 19% (83MB-105MB-126MB/79MB-100MB-121MB over 15)
+          Imp Fg: 50% (87MB-100MB-110MB/83MB-96MB-106MB over 24)
+         Service: 0.07%
+  * com.tencent.mm:push / u0a109:
+           TOTAL: 69% (11MB-12MB-13MB/9.0MB-9.2MB-9.9MB over 14)
+          Imp Fg: 69% (11MB-12MB-13MB/9.0MB-9.2MB-9.9MB over 14)
+         Service: 0.00%
+      Service Rs: 0.00%
+        Receiver: 0.01%
+  * com.tencent.mm:exdevice / u0a109:
+           TOTAL: 69% (11MB-11MB-12MB/8.7MB-8.9MB-9.6MB over 35)
+          Imp Fg: 69% (11MB-11MB-12MB/8.7MB-8.9MB-9.6MB over 35)
+         Service: 0.53%
+      Service Rs: 0.00%
+  * com.google.android.gms / u0a9:
+           TOTAL: 50% (19MB-19MB-20MB/18MB-18MB-20MB over 15)
+          Imp Fg: 17% (19MB-19MB-19MB/18MB-18MB-18MB over 3)
+          Imp Bg: 1.9% (19MB-20MB-20MB/18MB-19MB-19MB over 2)
+         Service: 31% (19MB-19MB-20MB/18MB-18MB-20MB over 10)
+        Receiver: 0.12%
+        (Cached): 50% (19MB-19MB-20MB/18MB-18MB-19MB over 32)
+  * com.taobao.taobao / u0a104:
+           TOTAL: 46% (32MB-36MB-40MB/28MB-34MB-38MB over 19)
+         Service: 45% (32MB-36MB-40MB/28MB-34MB-38MB over 19)
+      Service Rs: 0.00%
+        Receiver: 0.76%
+  * com.tencent.mobileqq / u0a83:
+           TOTAL: 35% (48MB-88MB-119MB/45MB-84MB-114MB over 97)
+             Top: 1.1% (104MB-104MB-104MB/97MB-97MB-97MB over 1)
+          Imp Fg: 34% (48MB-88MB-119MB/45MB-83MB-114MB over 95)
+          Imp Bg: 0.02%
+         Service: 0.29% (97MB-97MB-97MB/91MB-91MB-91MB over 1)
+        Receiver: 0.08%
+        (Cached): 64% (10MB-86MB-108MB/8.1MB-83MB-106MB over 43)
+  * com.eg.android.AlipayGphone / u0a208:
+           TOTAL: 28% (23MB-101MB-183MB/19MB-96MB-176MB over 19)
+             Top: 8.1% (68MB-156MB-183MB/64MB-150MB-176MB over 10)
+          Imp Fg: 0.45% (162MB-162MB-162MB/156MB-156MB-156MB over 1)
+         Service: 19% (23MB-25MB-28MB/19MB-21MB-24MB over 8)
+      Service Rs: 0.00%
+  * com.eg.android.AlipayGphone:push / u0a208:
+           TOTAL: 28% (12MB-14MB-16MB/8.8MB-10MB-12MB over 10)
+             Top: 0.01%
+          Imp Fg: 8.5% (15MB-16MB-16MB/12MB-12MB-12MB over 2)
+         Service: 19% (12MB-13MB-14MB/8.8MB-9.5MB-10MB over 8)
+      Service Rs: 0.00%
+  * com.taobao.taobao:channel / u0a104:
+           TOTAL: 21% (17MB-18MB-18MB/13MB-13MB-14MB over 9)
+         Service: 21% (17MB-18MB-18MB/13MB-13MB-14MB over 9)
+      Service Rs: 0.01%
+  * com.huawei.android.launcher / u0a44:
+           TOTAL: 19% (146MB-158MB-183MB/144MB-156MB-182MB over 24)
+             Top: 19% (146MB-158MB-183MB/144MB-156MB-182MB over 24)
+          Imp Fg: 0.00%
+         Service: 0.00%
+        Receiver: 0.10%
+          (Home): 81% (138MB-149MB-162MB/137MB-147MB-160MB over 30)
+  * org.getlantern.firetweet / u0a106:
+           TOTAL: 13% (69MB-95MB-125MB/67MB-93MB-123MB over 7)
+             Top: 13% (69MB-95MB-125MB/67MB-93MB-123MB over 7)
+         Service: 0.01%
+  * com.qzone:service / u0a136:
+           TOTAL: 9.9% (13MB-14MB-14MB/11MB-11MB-11MB over 8)
+          Imp Fg: 9.9% (13MB-14MB-14MB/11MB-11MB-11MB over 8)
+         Service: 0.06%
+      Service Rs: 0.00%
+  * com.autonavi.minimap:locationservice / u0a91:
+           TOTAL: 8.4% (8.8MB-9.3MB-10MB/7.6MB-8.0MB-8.5MB over 7)
+             Top: 8.0% (8.8MB-9.2MB-9.7MB/7.6MB-7.9MB-8.2MB over 5)
+          Imp Fg: 0.45% (9.3MB-9.7MB-10MB/8.0MB-8.3MB-8.5MB over 2)
+         Service: 0.00%
+        (Cached): 1.0% (11MB-11MB-11MB/9.5MB-9.5MB-9.5MB over 2)
+  * com.netease.newsreader.activity / u0a101:
+           TOTAL: 8.3% (39MB-102MB-136MB/37MB-99MB-133MB over 4)
+             Top: 6.9% (39MB-102MB-136MB/37MB-99MB-133MB over 4)
+          Imp Bg: 0.01%
+         Service: 1.3%
+        Receiver: 0.09%
+      (Last Act): 0.01%
+        (Cached): 89% (12MB-33MB-125MB/10MB-31MB-122MB over 54)
+  * com.tencent.mobileqq:qzone / u0a83:
+           TOTAL: 6.8% (35MB-58MB-90MB/30MB-52MB-85MB over 5)
+             Top: 0.09%
+         Service: 6.7% (35MB-58MB-90MB/30MB-52MB-85MB over 5)
+      Service Rs: 0.00%
+        (Cached): 0.05%
+  * android.process.media / u0a4:
+           TOTAL: 6.0% (8.3MB-11MB-28MB/7.2MB-9.7MB-27MB over 8)
+             Top: 0.01%
+          Imp Fg: 0.38%
+         Service: 5.6% (8.3MB-11MB-28MB/7.2MB-9.7MB-27MB over 8)
+        Receiver: 0.02%
+        (Cached): 87% (6.1MB-14MB-27MB/5.2MB-13MB-26MB over 53)
+  * com.tencent.mtt:VideoService / u0a89:
+           TOTAL: 6.0% (4.7MB-4.7MB-4.7MB/3.4MB-3.4MB-3.4MB over 4)
+             Top: 6.0% (4.7MB-4.7MB-4.7MB/3.4MB-3.4MB-3.4MB over 4)
+          Imp Fg: 0.05%
+         Service: 0.00%
+  * com.tencent.androidqqmail:Push / u0a173:
+           TOTAL: 6.0% (11MB-15MB-19MB/6.2MB-11MB-17MB over 8)
+          Imp Fg: 5.8% (15MB-17MB-19MB/9.7MB-11MB-14MB over 4)
+         Service: 0.14% (11MB-14MB-18MB/6.2MB-12MB-17MB over 4)
+      Service Rs: 0.02%
+  * com.vlife.huawei.wallpaper:main / u0a20:
+           TOTAL: 5.3%
+         Service: 5.1%
+        Receiver: 0.24%
+        (Cached): 7.1% (4.6MB-5.0MB-6.1MB/3.8MB-4.1MB-5.6MB over 5)
+  * com.tuicool.activity / u0a118:
+           TOTAL: 4.7% (71MB-99MB-118MB/68MB-96MB-115MB over 3)
+             Top: 4.1% (71MB-99MB-118MB/68MB-96MB-115MB over 3)
+         Service: 0.57%
+  * air.tv.douyu.android / u0a107:
+           TOTAL: 3.9% (8.4MB-76MB-154MB/7.7MB-75MB-152MB over 4)
+             Top: 2.3% (132MB-143MB-154MB/131MB-141MB-152MB over 2)
+         Service: 1.6% (8.4MB-8.4MB-8.5MB/7.7MB-7.7MB-7.7MB over 2)
+  * com.huawei.hisuite / u0a222:
+           TOTAL: 3.3% (4.1MB-4.2MB-4.6MB/3.1MB-3.1MB-3.1MB over 4)
+          Imp Fg: 3.3% (4.1MB-4.2MB-4.6MB/3.1MB-3.1MB-3.1MB over 4)
+         Service: 0.00%
+      Service Rs: 0.00%
+        Receiver: 0.03%
+        (Cached): 79% (2.8MB-3.7MB-5.2MB/1.6MB-2.6MB-3.9MB over 23)
+  * com.qzone / u0a136:
+           TOTAL: 2.6% (106MB-118MB-126MB/102MB-114MB-122MB over 5)
+             Top: 2.2% (119MB-121MB-126MB/115MB-118MB-122MB over 4)
+         Service: 0.44% (106MB-106MB-106MB/102MB-102MB-102MB over 1)
+        Receiver: 0.00%
+        (Cached): 7.3% (27MB-28MB-28MB/24MB-25MB-26MB over 3)
+  * com.twitter.android / u0a244:
+           TOTAL: 1.7% (25MB-25MB-25MB/23MB-23MB-23MB over 1)
+          Imp Bg: 1.6% (25MB-25MB-25MB/23MB-23MB-23MB over 1)
+         Service: 0.14%
+        Receiver: 0.00%
+        (Cached): 8.7% (24MB-28MB-29MB/22MB-26MB-27MB over 10)
+  * com.huawei.android.hwouc:hwbdservice / u0a48:
+           TOTAL: 1.1% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+         Service: 1.1% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+      Service Rs: 0.00%
+        (Cached): 35% (2.7MB-4.6MB-5.9MB/1.6MB-3.7MB-4.8MB over 23)
+  * com.huawei.bone / u0a37:
+           TOTAL: 0.86%
+         Service: 0.49%
+        Receiver: 0.36%
+        (Cached): 99% (7.6MB-8.5MB-8.9MB/6.8MB-7.8MB-8.2MB over 46)
+  * com.tencent.androidqqmail / u0a173:
+           TOTAL: 0.81%
+          Imp Bg: 0.81%
+         Service: 0.00%
+        Receiver: 0.01%
+        (Cached): 4.8% (26MB-27MB-28MB/21MB-22MB-23MB over 4)
+  * com.huawei.android.thememanager / u0a56:
+           TOTAL: 0.77%
+         Service: 0.77%
+        Receiver: 0.00%
+        (Cached): 0.30%
+  * com.android.browser:service / u0a2:
+           TOTAL: 0.67% (7.0MB-7.0MB-7.0MB/4.8MB-4.8MB-4.8MB over 1)
+             Top: 0.00%
+          Imp Fg: 0.38% (7.0MB-7.0MB-7.0MB/4.8MB-4.8MB-4.8MB over 1)
+         Service: 0.25%
+        Receiver: 0.03%
+        (Cached): 0.02%
+  * com.tencent.mobileqq:TMAssistantDownloadSDKService / u0a83:
+           TOTAL: 0.67% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+             Top: 0.03%
+          Imp Fg: 0.63% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+         Service: 0.01%
+  * com.huawei.android.totemweather / u0a60:
+           TOTAL: 0.61% (4.9MB-41MB-77MB/3.8MB-39MB-75MB over 2)
+             Top: 0.28% (4.9MB-41MB-77MB/3.8MB-39MB-75MB over 2)
+          Imp Fg: 0.23%
+         Service: 0.09%
+        Receiver: 0.02%
+          (Home): 0.00%
+        (Cached): 99% (4.3MB-15MB-27MB/3.5MB-14MB-25MB over 59)
+  * com.huawei.systemmanager / 1000:
+           TOTAL: 0.51%
+             Top: 0.13%
+          Imp Fg: 0.05%
+         Service: 0.24%
+        Receiver: 0.08%
+        (Cached): 98% (7.6MB-24MB-32MB/6.0MB-22MB-30MB over 34)
+  * com.tencent.mm:tools / u0a109:
+           TOTAL: 0.51% (46MB-46MB-46MB/42MB-42MB-42MB over 1)
+             Top: 0.38% (46MB-46MB-46MB/42MB-42MB-42MB over 1)
+        Receiver: 0.13%
+        (Cached): 21% (24MB-32MB-77MB/21MB-29MB-72MB over 7)
+  * com.android.browser / u0a2:
+           TOTAL: 0.42% (88MB-88MB-88MB/85MB-85MB-85MB over 1)
+             Top: 0.41% (88MB-88MB-88MB/85MB-85MB-85MB over 1)
+          Imp Fg: 0.00%
+         Service: 0.00%
+        Receiver: 0.01%
+      (Last Act): 1.6% (59MB-59MB-59MB/57MB-57MB-57MB over 1)
+        (Cached): 8.7% (4.6MB-15MB-57MB/3.7MB-14MB-56MB over 5)
+  * com.android.settings / 1000:
+           TOTAL: 0.40%
+             Top: 0.05%
+          Imp Fg: 0.16%
+        Receiver: 0.19%
+        (Cached): 100% (39MB-42MB-46MB/38MB-40MB-44MB over 30)
+  * com.huawei.appmarket / u0a10:
+           TOTAL: 0.36% (60MB-60MB-60MB/58MB-58MB-58MB over 1)
+             Top: 0.36% (60MB-60MB-60MB/58MB-58MB-58MB over 1)
+          Imp Fg: 0.00%
+         Service: 0.00%
+        (Cached): 0.26%
+  * com.tencent.mobileqq:peak / u0a83:
+           TOTAL: 0.35% (44MB-44MB-44MB/39MB-39MB-39MB over 1)
+             Top: 0.32% (44MB-44MB-44MB/39MB-39MB-39MB over 1)
+         Service: 0.03%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 1.8% (15MB-21MB-26MB/13MB-17MB-22MB over 2)
+  * com.android.deskclock / u0a40:
+           TOTAL: 0.24%
+        Receiver: 0.24%
+        (Cached): 6.1% (5.8MB-5.8MB-5.8MB/5.1MB-5.1MB-5.1MB over 1)
+  * com.eg.android.AlipayGphone:tools / u0a208:
+           TOTAL: 0.22%
+         Service: 0.21%
+      Service Rs: 0.01%
+        Receiver: 0.00%
+        (Cached): 27% (6.8MB-8.2MB-11MB/5.1MB-6.1MB-8.3MB over 14)
+  * com.tencent.mobileqq:picture / u0a83:
+           TOTAL: 0.22%
+         Service: 0.22%
+        (Cached): 0.02%
+  * com.android.providers.calendar / u0a28:
+           TOTAL: 0.20%
+         Service: 0.18%
+        Receiver: 0.02%
+        (Cached): 100% (4.4MB-6.4MB-7.1MB/3.5MB-5.8MB-6.5MB over 35)
+  * com.huawei.KoBackup / 1001:
+           TOTAL: 0.17%
+         Service: 0.10%
+      Service Rs: 0.00%
+        Receiver: 0.07%
+  * com.tencent.mm:sandbox / u0a109:
+           TOTAL: 0.17%
+         Service: 0.16%
+      Service Rs: 0.00%
+  * com.huawei.android.hwouc / u0a48:
+           TOTAL: 0.16%
+         Service: 0.00%
+        Receiver: 0.16%
+        (Cached): 51% (3.6MB-4.5MB-5.6MB/2.5MB-3.3MB-4.7MB over 22)
+  * com.android.email / u0a5:
+           TOTAL: 0.14%
+         Service: 0.11%
+        Receiver: 0.04%
+        (Cached): 86% (7.4MB-9.1MB-9.7MB/6.3MB-8.4MB-9.0MB over 45)
+  * com.huawei.phoneservice:loguploadservice / u0a12:
+           TOTAL: 0.14%
+         Service: 0.08%
+      Service Rs: 0.02%
+        Receiver: 0.04%
+        (Cached): 55% (3.6MB-4.7MB-5.6MB/2.4MB-3.2MB-4.0MB over 40)
+  * com.tencent.androidqqmail:Uninstall / u0a173:
+           TOTAL: 0.08%
+         Service: 0.08%
+      Service Rs: 0.01%
+        (Cached): 0.00%
+  * com.taobao.taobao:watchdog / u0a104:
+           TOTAL: 0.08%
+        Receiver: 0.08%
+        (Cached): 0.18%
+  * com.android.calendar / u0a27:
+           TOTAL: 0.06%
+         Service: 0.00%
+        Receiver: 0.06%
+        (Cached): 100% (5.8MB-7.2MB-7.8MB/4.6MB-6.3MB-7.1MB over 30)
+  * com.huawei.android.totemweather:remote / u0a60:
+           TOTAL: 0.06%
+         Service: 0.06%
+        (Cached): 0.00%
+  * com.huawei.phoneservice / u0a12:
+           TOTAL: 0.06%
+        Receiver: 0.06%
+        (Cached): 22% (3.8MB-4.3MB-4.7MB/2.6MB-2.9MB-3.0MB over 18)
+  * com.huawei.phoneservice:usersurvey / u0a12:
+           TOTAL: 0.05%
+        Receiver: 0.05%
+        (Cached): 52% (3.6MB-4.3MB-6.0MB/2.4MB-2.8MB-5.3MB over 27)
+  * com.autonavi.minimap:LBSconnectionservice / u0a91:
+           TOTAL: 0.05%
+         Service: 0.05%
+        (Cached): 17% (6.7MB-8.5MB-9.3MB/5.5MB-7.1MB-7.9MB over 8)
+  * com.example.android.notepad / u0a47:
+           TOTAL: 0.05%
+        Receiver: 0.05%
+        (Cached): 98% (3.2MB-4.2MB-4.8MB/2.2MB-3.3MB-4.3MB over 30)
+  * com.netease.newsreader.activity:sync / u0a101:
+           TOTAL: 0.05%
+          Imp Bg: 0.05%
+         Service: 0.00%
+        (Cached): 54% (5.3MB-5.6MB-6.6MB/3.7MB-4.1MB-4.9MB over 19)
+  * com.tencent.mobileqq:web / u0a83:
+           TOTAL: 0.04%
+        Receiver: 0.04%
+        (Cached): 1.3% (34MB-55MB-97MB/29MB-50MB-91MB over 3)
+  * com.huawei.gamecenter / u0a129:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        (Cached): 81% (3.3MB-3.6MB-4.0MB/2.4MB-2.6MB-3.0MB over 27)
+  * com.huawei.bone:pushservice / u0a37:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 78% (4.9MB-5.6MB-6.5MB/3.5MB-4.2MB-5.2MB over 25)
+  * com.huawei.vassistant / u0a58:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 88% (3.4MB-4.5MB-5.0MB/2.6MB-3.6MB-4.4MB over 26)
+  * com.huawei.android.pushagent / u0a51:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 100% (4.6MB-5.4MB-5.8MB/4.1MB-4.8MB-5.3MB over 33)
+  * com.huawei.wallet / u0a99:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 61% (4.4MB-5.0MB-5.8MB/3.2MB-3.8MB-4.6MB over 21)
+  * com.android.exchange / u0a6:
+           TOTAL: 0.01%
+          Imp Fg: 0.00%
+         Service: 0.01%
+        Receiver: 0.00%
+        (Cached): 5.7% (3.7MB-3.7MB-3.7MB/2.8MB-2.8MB-2.8MB over 1)
+  * com.huawei.android.hwouc:hwbd / u0a48:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 81% (2.9MB-3.3MB-3.7MB/1.7MB-2.1MB-2.8MB over 27)
+  * com.huawei.hwvplayer / u0a13:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 61% (4.7MB-5.8MB-6.4MB/3.3MB-4.8MB-5.0MB over 21)
+  * com.huawei.android.FloatTasks / u0a42:
+           TOTAL: 0.01%
+          Imp Fg: 0.01%
+        (Cached): 58% (2.1MB-3.6MB-3.9MB/1.5MB-2.9MB-3.3MB over 14)
+  * com.huawei.gallery.photoshare / u0a92:
+           TOTAL: 0.01%
+      Service Rs: 0.00%
+        Receiver: 0.01%
+        (Cached): 78% (3.3MB-3.9MB-6.6MB/2.2MB-2.8MB-5.9MB over 25)
+  * com.huawei.remoteassistant:cmsservice / u0a96:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 81% (3.4MB-3.8MB-4.0MB/2.1MB-2.4MB-2.6MB over 27)
+  * com.huawei.remoteassistant / u0a96:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 81% (3.6MB-3.9MB-4.1MB/2.2MB-2.5MB-2.6MB over 27)
+  * com.qq.qcloud:monitor / u0a108:
+           TOTAL: 0.00%
+         Service: 0.00%
+      Service Rs: 0.00%
+        (Cached): 84% (0.00-0.98MB-4.8MB/0.00-482KB-2.4MB over 19)
+  * com.android.inputmethod.latin / u0a63:
+           TOTAL: 0.00%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 12% (4.9MB-5.0MB-5.0MB/4.3MB-4.3MB-4.4MB over 3)
+  * com.huawei.android.wfdft / u0a62:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 35% (2.9MB-4.2MB-4.5MB/2.0MB-3.4MB-3.9MB over 16)
+  * com.huawei.wallet:pushservice / u0a99:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 17% (3.8MB-4.0MB-4.1MB/3.0MB-3.1MB-3.2MB over 4)
+  * com.nuance.swype.emui / u0a82:
+        (Cached): 17% (3.7MB-3.8MB-3.9MB/2.3MB-2.4MB-2.5MB over 4)
+  * com.huawei.android.karaokeeffect / 1000:
+        (Cached): 17% (3.0MB-3.0MB-3.1MB/1.9MB-1.9MB-1.9MB over 4)
+  * com.android.huawei.projectmenu / 1000:
+        (Cached): 17% (2.5MB-2.5MB-2.5MB/1.4MB-1.4MB-1.4MB over 4)
+  * com.google.android.gms.ui / u0a9:
+        (Cached): 0.07%
+  * com.huawei.remoteassistant:pushservice / u0a96:
+        (Cached): 17% (3.1MB-3.2MB-3.2MB/2.4MB-2.4MB-2.4MB over 4)
+  * com.android.keychain / 1000:
+        (Cached): 0.22%
+  * com.android.gallery3d / u0a8:
+        (Cached): 17% (4.0MB-4.1MB-4.1MB/3.2MB-3.2MB-3.2MB over 4)
+  * com.huawei.cloudwifi:pushservice / u0a87:
+        (Cached): 17% (6.4MB-6.5MB-6.6MB/5.1MB-5.1MB-5.2MB over 4)
+  * com.android.packageinstaller / u0a71:
+        (Cached): 17% (42MB-42MB-43MB/41MB-41MB-42MB over 4)
+  * com.huawei.android.ds:pushservice / 1001:
+        (Cached): 17% (4.8MB-4.8MB-4.9MB/3.8MB-3.8MB-3.8MB over 4)
+  * air.tv.douyu.android:push / u0a107:
+        (Cached): 0.23%
+  * com.huawei.hwvplayer:pushservice / u0a13:
+        (Cached): 17% (4.3MB-4.4MB-4.5MB/3.5MB-3.5MB-3.5MB over 4)
+
+Run time Stats:
+  SOff/Norm: +52m47s60ms
+  SOn /Norm: +59m52s466ms
+      TOTAL: +1h52m39s526ms
+
+          Start time: 2016-04-02 08:11:27
+  Total elapsed time: +8h30m14s422ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+  * com.huawei.floatMms / u0a41:
+           TOTAL: 100% (18MB-18MB-18MB/17MB-17MB-17MB over 8)
+         Service: 100% (18MB-18MB-18MB/17MB-17MB-17MB over 8)
+  * com.tencent.mtt / u0a89:
+           TOTAL: 100% (7.2MB-11MB-13MB/5.7MB-9.4MB-12MB over 8)
+         Service: 100% (7.2MB-11MB-13MB/5.7MB-9.4MB-12MB over 8)
+  * com.google.android.gms.wearable / u0a9:
+           TOTAL: 100% (5.8MB-5.9MB-6.0MB/5.3MB-5.3MB-5.3MB over 8)
+         Service: 100% (5.8MB-5.9MB-6.0MB/5.3MB-5.3MB-5.3MB over 8)
+  * com.iflytek.speechsuite / u0a115:
+           TOTAL: 100% (55MB-55MB-55MB/53MB-53MB-53MB over 8)
+         Service: 100% (55MB-55MB-55MB/53MB-53MB-53MB over 8)
+  * android.process.acore / u0a0:
+           TOTAL: 100% (14MB-14MB-15MB/14MB-14MB-14MB over 8)
+          Imp Fg: 3.7% (14MB-14MB-15MB/14MB-14MB-14MB over 2)
+         Service: 96% (14MB-14MB-14MB/14MB-14MB-14MB over 6)
+  * com.huawei.hwid:remote / u0a43:
+           TOTAL: 100% (5.4MB-5.5MB-5.6MB/4.9MB-4.9MB-4.9MB over 12)
+          Imp Fg: 100% (5.4MB-5.5MB-5.6MB/4.9MB-4.9MB-4.9MB over 12)
+  * com.huawei.dataservicediagnose / 1000:
+           TOTAL: 100% (5.5MB-5.6MB-5.7MB/4.9MB-4.9MB-4.9MB over 8)
+         Service: 100% (5.5MB-5.6MB-5.7MB/4.9MB-4.9MB-4.9MB over 8)
+  * com.tencent.mtt:service / u0a89:
+           TOTAL: 100% (15MB-15MB-16MB/13MB-13MB-14MB over 8)
+         Service: 100% (15MB-15MB-16MB/13MB-13MB-14MB over 8)
+  * com.huawei.android.pushagent.PushService / 1000:
+           TOTAL: 100% (7.8MB-8.1MB-8.3MB/6.5MB-6.9MB-7.1MB over 8)
+         Service: 100% (7.8MB-8.1MB-8.3MB/6.5MB-6.9MB-7.1MB over 8)
+  * com.huawei.cloudwifi / u0a87:
+           TOTAL: 100% (10MB-10MB-11MB/9.4MB-9.5MB-9.7MB over 8)
+         Service: 100% (10MB-10MB-11MB/9.4MB-9.5MB-9.7MB over 8)
+  * com.baidu.input_huawei / u0a24:
+           TOTAL: 100% (34MB-34MB-34MB/33MB-33MB-33MB over 8)
+          Imp Fg: 100% (34MB-34MB-34MB/33MB-33MB-33MB over 8)
+  * com.amap.android.location / u0a15:
+           TOTAL: 100% (8.7MB-8.9MB-9.1MB/8.1MB-8.2MB-8.4MB over 12)
+      Persistent: 100% (8.7MB-8.9MB-9.1MB/8.1MB-8.2MB-8.4MB over 12)
+  * org.simalliance.openmobileapi.service:remote / 1050:
+           TOTAL: 100% (4.5MB-4.5MB-4.6MB/4.0MB-4.0MB-4.0MB over 8)
+         Service: 100% (4.5MB-4.5MB-4.6MB/4.0MB-4.0MB-4.0MB over 8)
+  * com.google.process.location / u0a9:
+           TOTAL: 100% (14MB-14MB-14MB/13MB-13MB-13MB over 8)
+          Imp Bg: 100% (14MB-14MB-14MB/13MB-13MB-13MB over 8)
+  * com.huawei.systemmanager:service / 1000:
+           TOTAL: 100% (28MB-28MB-29MB/26MB-26MB-27MB over 8)
+          Imp Fg: 100% (28MB-28MB-29MB/26MB-26MB-27MB over 8)
+  * com.huawei.geofence / 1000:
+           TOTAL: 100% (3.0MB-3.0MB-3.1MB/2.1MB-2.1MB-2.1MB over 8)
+          Imp Bg: 100% (3.0MB-3.0MB-3.1MB/2.1MB-2.1MB-2.1MB over 8)
+  * com.huawei.bd / 1000:
+           TOTAL: 100% (8.8MB-9.1MB-9.3MB/8.3MB-8.5MB-8.5MB over 8)
+         Service: 100% (8.8MB-9.1MB-9.3MB/8.3MB-8.5MB-8.5MB over 8)
+  * com.android.contacts / u0a0:
+           TOTAL: 100% (59MB-60MB-60MB/57MB-57MB-57MB over 8)
+      Persistent: 100% (59MB-60MB-60MB/57MB-57MB-57MB over 8)
+  * com.google.process.gapps / u0a9:
+           TOTAL: 100% (12MB-12MB-12MB/11MB-11MB-11MB over 6)
+          Imp Fg: 20% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+         Service: 80% (12MB-12MB-12MB/11MB-11MB-11MB over 5)
+  * com.huawei.hwid / u0a43:
+           TOTAL: 100% (15MB-15MB-15MB/14MB-14MB-14MB over 5)
+          Imp Fg: 0.00%
+         Service: 100% (15MB-15MB-15MB/14MB-14MB-14MB over 5)
+  * com.huawei.lcagent / 1000:
+           TOTAL: 100% (6.1MB-6.3MB-7.0MB/5.4MB-5.7MB-6.5MB over 8)
+          Imp Fg: 100% (6.1MB-6.3MB-7.0MB/5.4MB-5.7MB-6.5MB over 8)
+  * com.android.keyguard / 1000:
+           TOTAL: 100% (116MB-116MB-119MB/114MB-115MB-118MB over 12)
+      Persistent: 100% (116MB-116MB-119MB/114MB-115MB-118MB over 12)
+  * com.android.smspush / u0a80:
+           TOTAL: 100% (2.8MB-2.9MB-3.0MB/2.0MB-2.0MB-2.0MB over 12)
+          Imp Fg: 100% (2.8MB-2.9MB-3.0MB/2.0MB-2.0MB-2.0MB over 12)
+  * com.huawei.android.ds / 1001:
+           TOTAL: 100% (9.2MB-9.3MB-9.3MB/8.2MB-8.2MB-8.2MB over 5)
+          Imp Fg: 0.00%
+         Service: 100% (9.2MB-9.3MB-9.3MB/8.2MB-8.2MB-8.2MB over 5)
+  * com.huawei.motionservice / u0a46:
+           TOTAL: 100% (6.2MB-6.7MB-7.1MB/5.6MB-6.1MB-6.5MB over 8)
+          Imp Fg: 0.10%
+         Service: 100% (6.2MB-6.7MB-7.1MB/5.6MB-6.1MB-6.5MB over 8)
+  * com.vlife.huawei.wallpaper / u0a20:
+           TOTAL: 100% (7.8MB-8.0MB-8.3MB/7.1MB-7.3MB-7.5MB over 12)
+      Persistent: 100% (7.8MB-8.0MB-8.3MB/7.1MB-7.3MB-7.5MB over 12)
+  * com.huawei.android.powermonitor / 1000:
+           TOTAL: 100% (10MB-11MB-11MB/9.8MB-10MB-10MB over 12)
+      Persistent: 100% (10MB-11MB-11MB/9.8MB-10MB-10MB over 12)
+  * com.android.systemui / u0a76:
+           TOTAL: 100% (85MB-91MB-109MB/84MB-89MB-107MB over 12)
+      Persistent: 100% (85MB-91MB-109MB/84MB-89MB-107MB over 12)
+  * system / 1000:
+           TOTAL: 100% (58MB-61MB-63MB/53MB-57MB-59MB over 12)
+      Persistent: 100% (58MB-61MB-63MB/53MB-57MB-59MB over 12)
+  * com.android.phone / 1001:
+           TOTAL: 100% (42MB-43MB-43MB/40MB-41MB-41MB over 12)
+      Persistent: 100% (42MB-43MB-43MB/40MB-41MB-41MB over 12)
+  * com.huawei.bone:PhoneService / u0a37:
+           TOTAL: 100% (7.9MB-8.0MB-8.9MB/6.5MB-6.7MB-7.7MB over 8)
+         Service: 100% (7.9MB-8.0MB-8.9MB/6.5MB-6.7MB-7.7MB over 8)
+  * com.cootek.smartdialer_oem_module / u0a77:
+           TOTAL: 100% (8.2MB-8.9MB-9.4MB/7.3MB-7.9MB-8.3MB over 12)
+          Imp Fg: 100% (8.2MB-8.9MB-9.4MB/7.3MB-7.9MB-8.3MB over 12)
+  * com.huawei.powergenie / 1000:
+           TOTAL: 100% (7.8MB-8.1MB-8.4MB/6.9MB-7.2MB-7.4MB over 12)
+      Persistent: 100% (7.8MB-8.1MB-8.4MB/6.9MB-7.2MB-7.4MB over 12)
+  * com.huawei.ca / u0a38:
+           TOTAL: 100% (5.9MB-6.2MB-6.6MB/5.0MB-5.3MB-5.7MB over 12)
+      Persistent: 100% (5.9MB-6.2MB-6.6MB/5.0MB-5.3MB-5.7MB over 12)
+  * com.netease.newsreader.activity:ajmd / u0a101:
+           TOTAL: 100% (7.1MB-8.7MB-10MB/5.4MB-7.0MB-8.6MB over 5)
+         Service: 99% (7.1MB-8.7MB-10MB/5.4MB-7.0MB-8.6MB over 5)
+      Service Rs: 0.81%
+  * com.netease.pomelo.news.push.messageservice_V1 / u0a101:
+           TOTAL: 100% (6.3MB-6.4MB-6.7MB/4.5MB-4.7MB-5.2MB over 9)
+          Imp Fg: 26% (6.7MB-6.7MB-6.7MB/5.2MB-5.2MB-5.2MB over 2)
+          Imp Bg: 0.01%
+         Service: 74% (6.3MB-6.3MB-6.5MB/4.5MB-4.6MB-5.1MB over 7)
+      Service Rs: 0.07%
+  * com.tencent.mobileqq:MSF / u0a83:
+           TOTAL: 99% (13MB-15MB-15MB/10MB-12MB-12MB over 20)
+          Imp Fg: 83% (13MB-15MB-15MB/10MB-12MB-12MB over 18)
+         Service: 16% (14MB-14MB-15MB/12MB-12MB-12MB over 2)
+      Service Rs: 0.00%
+        Receiver: 0.02%
+  * com.tencent.mobileqq / u0a83:
+           TOTAL: 84% (48MB-91MB-119MB/45MB-87MB-114MB over 47)
+             Top: 5.3% (104MB-104MB-104MB/97MB-97MB-97MB over 1)
+          Imp Fg: 78% (48MB-91MB-119MB/45MB-86MB-114MB over 46)
+         Service: 0.21%
+        Receiver: 0.09%
+        (Cached): 15% (10MB-50MB-65MB/8.1MB-47MB-62MB over 5)
+  * com.google.android.gms / u0a9:
+           TOTAL: 40% (19MB-19MB-20MB/18MB-18MB-19MB over 5)
+          Imp Fg: 20% (19MB-19MB-19MB/18MB-18MB-18MB over 1)
+         Service: 19% (19MB-19MB-20MB/18MB-18MB-19MB over 4)
+        Receiver: 0.12%
+        (Cached): 60% (20MB-20MB-20MB/19MB-19MB-19MB over 7)
+  * com.netease.newsreader.activity / u0a101:
+           TOTAL: 36% (39MB-102MB-136MB/37MB-99MB-133MB over 4)
+             Top: 35% (39MB-102MB-136MB/37MB-99MB-133MB over 4)
+          Imp Bg: 0.01%
+         Service: 1.6%
+        Receiver: 0.05%
+      (Last Act): 0.06%
+        (Cached): 64% (13MB-85MB-125MB/11MB-82MB-122MB over 15)
+  * com.taobao.taobao / u0a104:
+           TOTAL: 32% (36MB-36MB-36MB/34MB-34MB-34MB over 3)
+         Service: 31% (36MB-36MB-36MB/34MB-34MB-34MB over 3)
+        Receiver: 0.59%
+  * com.tuicool.activity / u0a118:
+           TOTAL: 23% (71MB-99MB-118MB/68MB-96MB-115MB over 3)
+             Top: 20% (71MB-99MB-118MB/68MB-96MB-115MB over 3)
+         Service: 2.8%
+  * com.qzone:service / u0a136:
+           TOTAL: 22% (13MB-14MB-14MB/11MB-11MB-11MB over 5)
+          Imp Fg: 21% (13MB-14MB-14MB/11MB-11MB-11MB over 5)
+         Service: 0.13%
+      Service Rs: 0.01%
+  * com.qq.qcloud / u0a108:
+           TOTAL: 19% (11MB-11MB-12MB/9.3MB-9.6MB-9.8MB over 5)
+         Service: 19% (11MB-11MB-12MB/9.3MB-9.6MB-9.8MB over 5)
+      Service Rs: 0.00%
+  * com.qq.qcloud:wns / u0a108:
+           TOTAL: 19% (7.6MB-8.1MB-9.9MB/6.0MB-6.5MB-8.6MB over 5)
+         Service: 19% (7.6MB-8.1MB-9.9MB/6.0MB-6.5MB-8.6MB over 5)
+      Service Rs: 0.00%
+  * android.process.media / u0a4:
+           TOTAL: 19% (8.3MB-8.4MB-8.4MB/7.2MB-7.2MB-7.2MB over 7)
+          Imp Fg: 0.35%
+         Service: 19% (8.3MB-8.4MB-8.4MB/7.2MB-7.2MB-7.2MB over 7)
+        Receiver: 0.01%
+        (Cached): 45% (6.1MB-8.6MB-14MB/5.2MB-7.7MB-13MB over 11)
+  * com.tencent.mobileqq:qzone / u0a83:
+           TOTAL: 18% (35MB-35MB-36MB/30MB-30MB-30MB over 2)
+         Service: 18% (35MB-35MB-36MB/30MB-30MB-30MB over 2)
+      Service Rs: 0.00%
+        (Cached): 0.08%
+  * com.huawei.hisuite / u0a222:
+           TOTAL: 16% (4.1MB-4.2MB-4.6MB/3.1MB-3.1MB-3.1MB over 4)
+          Imp Fg: 16% (4.1MB-4.2MB-4.6MB/3.1MB-3.1MB-3.1MB over 4)
+         Service: 0.01%
+      Service Rs: 0.00%
+        Receiver: 0.01%
+        (Cached): 8.6% (5.0MB-5.0MB-5.2MB/3.6MB-3.7MB-3.9MB over 3)
+  * com.tencent.mm / u0a109:
+           TOTAL: 16% (83MB-89MB-94MB/79MB-84MB-89MB over 3)
+             Top: 16% (83MB-89MB-94MB/79MB-84MB-89MB over 3)
+          Imp Fg: 0.09%
+         Service: 0.01%
+  * com.tencent.mm:exdevice / u0a109:
+           TOTAL: 15% (11MB-11MB-11MB/8.8MB-8.9MB-8.9MB over 3)
+          Imp Fg: 15% (11MB-11MB-11MB/8.8MB-8.9MB-8.9MB over 3)
+         Service: 0.02%
+      Service Rs: 0.01%
+  * com.tencent.mm:push / u0a109:
+           TOTAL: 15% (12MB-12MB-12MB/9.3MB-9.4MB-9.5MB over 2)
+          Imp Fg: 15% (12MB-12MB-12MB/9.3MB-9.4MB-9.5MB over 2)
+         Service: 0.01%
+      Service Rs: 0.00%
+  * com.qzone / u0a136:
+           TOTAL: 13% (106MB-118MB-126MB/102MB-114MB-122MB over 5)
+             Top: 11% (119MB-121MB-126MB/115MB-118MB-122MB over 4)
+         Service: 2.1% (106MB-106MB-106MB/102MB-102MB-102MB over 1)
+        Receiver: 0.00%
+        (Cached): 8.5% (28MB-28MB-28MB/25MB-25MB-25MB over 1)
+  * com.eg.android.AlipayGphone / u0a208:
+           TOTAL: 11% (26MB-104MB-183MB/21MB-99MB-176MB over 2)
+             Top: 3.6% (183MB-183MB-183MB/176MB-176MB-176MB over 1)
+          Imp Fg: 0.05%
+         Service: 7.4% (26MB-26MB-26MB/21MB-21MB-21MB over 1)
+      Service Rs: 0.00%
+  * com.eg.android.AlipayGphone:push / u0a208:
+           TOTAL: 11% (13MB-13MB-13MB/8.8MB-8.8MB-8.8MB over 1)
+          Imp Fg: 3.6%
+         Service: 7.3% (13MB-13MB-13MB/8.8MB-8.8MB-8.8MB over 1)
+  * com.huawei.android.launcher / u0a44:
+           TOTAL: 8.5% (146MB-162MB-183MB/144MB-160MB-182MB over 8)
+             Top: 8.4% (146MB-162MB-183MB/144MB-160MB-182MB over 8)
+          Imp Fg: 0.00%
+         Service: 0.01%
+        Receiver: 0.08%
+          (Home): 91% (140MB-150MB-162MB/138MB-148MB-160MB over 14)
+  * com.taobao.taobao:channel / u0a104:
+           TOTAL: 7.7% (18MB-18MB-18MB/13MB-13MB-13MB over 1)
+         Service: 7.7% (18MB-18MB-18MB/13MB-13MB-13MB over 1)
+      Service Rs: 0.00%
+  * com.huawei.android.hwouc:hwbdservice / u0a48:
+           TOTAL: 5.2% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+         Service: 5.2% (5.7MB-5.7MB-5.7MB/4.6MB-4.6MB-4.6MB over 1)
+        (Cached): 95% (4.6MB-5.4MB-5.9MB/3.7MB-4.5MB-4.8MB over 12)
+  * com.vlife.huawei.wallpaper:main / u0a20:
+           TOTAL: 4.7%
+         Service: 4.6%
+        Receiver: 0.07%
+        (Cached): 3.7%
+  * com.autonavi.minimap:locationservice / u0a91:
+           TOTAL: 3.6% (10MB-10MB-10MB/8.5MB-8.5MB-8.5MB over 1)
+             Top: 3.6%
+          Imp Fg: 0.05% (10MB-10MB-10MB/8.5MB-8.5MB-8.5MB over 1)
+         Service: 0.01%
+        (Cached): 5.0% (11MB-11MB-11MB/9.5MB-9.5MB-9.5MB over 2)
+  * com.tencent.mobileqq:peak / u0a83:
+           TOTAL: 1.8% (44MB-44MB-44MB/39MB-39MB-39MB over 1)
+             Top: 1.6% (44MB-44MB-44MB/39MB-39MB-39MB over 1)
+         Service: 0.15%
+      Service Rs: 0.00%
+        (Cached): 5.9% (26MB-26MB-26MB/22MB-22MB-22MB over 1)
+  * com.huawei.systemmanager / 1000:
+           TOTAL: 1.1%
+             Top: 0.67%
+          Imp Fg: 0.26%
+         Service: 0.05%
+        Receiver: 0.11%
+        (Cached): 90% (7.6MB-19MB-32MB/6.0MB-17MB-30MB over 12)
+  * com.twitter.android / u0a244:
+           TOTAL: 0.77%
+          Imp Bg: 0.76%
+         Service: 0.01%
+        (Cached): 7.8% (29MB-29MB-29MB/27MB-27MB-27MB over 2)
+  * com.huawei.bone / u0a37:
+           TOTAL: 0.52%
+         Service: 0.37%
+        Receiver: 0.15%
+        (Cached): 99% (7.6MB-8.3MB-8.9MB/6.8MB-7.5MB-8.1MB over 11)
+  * com.android.settings / 1000:
+           TOTAL: 0.49%
+          Imp Fg: 0.26%
+        Receiver: 0.22%
+        (Cached): 100% (40MB-42MB-43MB/39MB-41MB-42MB over 10)
+  * com.huawei.android.totemweather / u0a60:
+           TOTAL: 0.31%
+             Top: 0.11%
+          Imp Fg: 0.16%
+         Service: 0.02%
+        Receiver: 0.01%
+        (Cached): 100% (14MB-14MB-15MB/12MB-13MB-13MB over 16)
+  * com.android.deskclock / u0a40:
+           TOTAL: 0.28%
+        Receiver: 0.28%
+        (Cached): 7.2% (5.8MB-5.8MB-5.8MB/5.1MB-5.1MB-5.1MB over 1)
+  * com.tencent.mm:tools / u0a109:
+           TOTAL: 0.21%
+        Receiver: 0.21%
+        (Cached): 15% (24MB-24MB-24MB/21MB-21MB-21MB over 3)
+  * com.tencent.mobileqq:web / u0a83:
+           TOTAL: 0.20%
+        Receiver: 0.20%
+        (Cached): 3.1% (34MB-34MB-35MB/29MB-29MB-29MB over 2)
+  * com.eg.android.AlipayGphone:tools / u0a208:
+           TOTAL: 0.18%
+         Service: 0.17%
+      Service Rs: 0.01%
+        (Cached): 8.9% (7.1MB-8.7MB-10MB/5.3MB-6.4MB-7.6MB over 2)
+  * com.huawei.KoBackup / 1001:
+           TOTAL: 0.16%
+         Service: 0.10%
+      Service Rs: 0.00%
+        Receiver: 0.07%
+  * com.huawei.android.hwouc / u0a48:
+           TOTAL: 0.15%
+         Service: 0.01%
+        Receiver: 0.15%
+        (Cached): 46% (3.9MB-5.0MB-5.6MB/2.7MB-4.0MB-4.7MB over 7)
+  * com.huawei.phoneservice:loguploadservice / u0a12:
+           TOTAL: 0.15%
+         Service: 0.09%
+      Service Rs: 0.03%
+        Receiver: 0.03%
+        (Cached): 42% (4.1MB-4.7MB-5.3MB/2.7MB-3.3MB-4.0MB over 11)
+  * com.android.providers.calendar / u0a28:
+           TOTAL: 0.15%
+         Service: 0.13%
+        Receiver: 0.02%
+        (Cached): 100% (7.0MB-7.0MB-7.1MB/6.4MB-6.4MB-6.5MB over 10)
+  * com.autonavi.minimap:LBSconnectionservice / u0a91:
+           TOTAL: 0.13%
+         Service: 0.13%
+        (Cached): 6.9% (9.3MB-9.3MB-9.3MB/7.9MB-7.9MB-7.9MB over 1)
+  * com.android.email / u0a5:
+           TOTAL: 0.11%
+         Service: 0.08%
+        Receiver: 0.03%
+        (Cached): 100% (8.4MB-9.0MB-9.3MB/7.8MB-8.3MB-8.6MB over 12)
+  * com.android.calendar / u0a27:
+           TOTAL: 0.08%
+        Receiver: 0.08%
+        (Cached): 100% (7.4MB-7.5MB-7.6MB/6.8MB-6.9MB-6.9MB over 11)
+  * com.example.android.notepad / u0a47:
+           TOTAL: 0.06%
+        Receiver: 0.06%
+        (Cached): 100% (4.5MB-4.7MB-4.8MB/3.9MB-4.1MB-4.3MB over 12)
+  * com.huawei.phoneservice:usersurvey / u0a12:
+           TOTAL: 0.04%
+        Receiver: 0.04%
+        (Cached): 33% (3.7MB-4.4MB-6.0MB/2.4MB-3.0MB-5.3MB over 5)
+  * com.huawei.phoneservice / u0a12:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        (Cached): 25% (4.2MB-4.3MB-4.3MB/2.8MB-2.9MB-3.0MB over 4)
+  * com.huawei.gamecenter / u0a129:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 100% (3.3MB-3.4MB-3.6MB/2.4MB-2.4MB-2.4MB over 12)
+  * com.netease.newsreader.activity:sync / u0a101:
+           TOTAL: 0.02%
+          Imp Bg: 0.02%
+         Service: 0.00%
+        (Cached): 12% (5.4MB-5.7MB-6.6MB/3.9MB-4.2MB-4.9MB over 5)
+  * com.huawei.android.pushagent / u0a51:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 100% (5.4MB-5.7MB-5.8MB/4.9MB-5.1MB-5.3MB over 12)
+  * com.qq.qcloud:monitor / u0a108:
+           TOTAL: 0.02%
+         Service: 0.01%
+      Service Rs: 0.00%
+        (Cached): 19% (0.00-3.1MB-4.8MB/0.00-1.5MB-2.4MB over 6)
+  * com.android.browser:service / u0a2:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+  * com.huawei.android.hwouc:hwbd / u0a48:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (3.2MB-3.4MB-3.6MB/2.1MB-2.1MB-2.1MB over 12)
+  * com.huawei.vassistant / u0a58:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 99% (3.4MB-4.5MB-5.0MB/2.6MB-3.9MB-4.4MB over 10)
+  * com.huawei.gallery.photoshare / u0a92:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (3.3MB-3.4MB-3.5MB/2.2MB-2.2MB-2.3MB over 12)
+  * com.huawei.wallet / u0a99:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (4.4MB-4.5MB-4.6MB/3.2MB-3.4MB-3.5MB over 12)
+  * com.huawei.hwvplayer / u0a13:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (5.6MB-5.6MB-5.7MB/5.0MB-5.0MB-5.0MB over 12)
+  * com.android.browser / u0a2:
+           TOTAL: 0.01%
+             Top: 0.01%
+        (Cached): 6.8% (4.6MB-4.7MB-4.7MB/3.7MB-3.7MB-3.7MB over 3)
+  * com.huawei.remoteassistant:cmsservice / u0a96:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (3.7MB-3.9MB-4.0MB/2.5MB-2.6MB-2.6MB over 12)
+  * com.huawei.android.wfdft / u0a62:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (3.5MB-4.2MB-4.5MB/2.1MB-3.4MB-3.9MB over 12)
+  * com.huawei.bone:pushservice / u0a37:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (4.9MB-5.1MB-5.2MB/3.5MB-3.6MB-3.6MB over 12)
+  * com.huawei.remoteassistant / u0a96:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (3.8MB-3.9MB-4.1MB/2.6MB-2.6MB-2.6MB over 12)
+
+Run time Stats:
+  SOff/Norm: +7m6s848ms
+  SOn /Norm: +15m22s281ms (running)
+      TOTAL: +22m29s129ms
+
+          Start time: 2016-04-02 15:41:35
+  Total elapsed time: +1h0m9s86ms (partial) libdvm.so chromeview

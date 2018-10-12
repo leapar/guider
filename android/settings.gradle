@@ -1,0 +1,38 @@
+rootProject.name = 'guider'
+
+include ':RNSendIntentModule', ':app'
+project(':RNSendIntentModule').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-send-intent')
+include ':realm'
+project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
+
+include ':react-native-code-push'
+project(':react-native-code-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-code-push/android/app')
+include ':react-native-jpush'
+project(':react-native-jpush').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-jpush/android')
+
+include ':react-native-barcodescanner', ':app'
+project(':react-native-barcodescanner').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-barcodescanner/android')
+
+/*
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/android')
+*/
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+
+include ':app', ':react-native-webview-bridge'
+project(':react-native-webview-bridge').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview-bridge/android')
+
+include ':vitamio'
+project(':vitamio').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-vitamio/vitamio')
+include ':RNVitamioView'
+project(':RNVitamioView').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-vitamio')
+/*
+include ':RCTVideo', ':app'
+project(':RCTVideo').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-video/android')
+
+include ':RNYouTubePlayer', ':app'
+project(':RNYouTubePlayer').projectDir = new File(rootProject.projectDir, '../node_modules/rn-youtube-android/android')
+*/
+include ':react-native-orientation'
+project(':react-native-orientation').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-orientation/android')

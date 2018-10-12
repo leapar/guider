@@ -1,0 +1,271 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.newugo.guider / u0a298:
+      * com.newugo.guider / u0a298:
+            (Cached): 100% (41MB-42MB-45MB/40MB-40MB-44MB over 206)
+  * com.newugo.guider / u0a304:
+      * com.newugo.guider / u0a304:
+               TOTAL: 3.0% (25MB-142MB-201MB/23MB-139MB-199MB over 28)
+                 Top: 2.8% (77MB-148MB-201MB/75MB-146MB-199MB over 26)
+             Service: 0.27% (25MB-53MB-82MB/23MB-52MB-80MB over 2)
+          Service Rs: 0.00%
+            Receiver: 0.00%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 15 / time 3.0%
+            Started count 15 / time 3.0%
+          Executing count 12 / time 0.19%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 15 / time 3.0%
+            Started count 15 / time 3.0%
+          Executing count 28 / time 0.19%
+  * com.newugo.guider / u0a305:
+      * com.newugo.guider / u0a305:
+               TOTAL: 1.1% (2.5MB-102MB-195MB/1.3MB-100MB-193MB over 10)
+                 Top: 1.1% (2.5MB-102MB-195MB/1.3MB-100MB-193MB over 10)
+          Service Rs: 0.00%
+            Receiver: 0.00%
+            (Cached): 0.33% (5.0MB-5.0MB-5.1MB/3.5MB-3.5MB-3.7MB over 4)
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 5 / time 0.95%
+            Started count 4 / time 0.95%
+          Executing count 5 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 5 / time 0.97%
+            Started count 4 / time 0.97%
+          Executing count 7 / time 0.04%
+  * com.newugo.guider / u0a306:
+      * com.newugo.guider / u0a306:
+               TOTAL: 0.22% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+                 Top: 0.22% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+          Service Rs: 0.00%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 2 / time 0.21%
+            Started count 2 / time 0.21%
+          Executing count 1 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 2 / time 0.22%
+            Started count 2 / time 0.22%
+          Executing count 2 / time 0.00%
+  * com.newugo.guider / u0a307:
+      * com.newugo.guider / u0a307:
+               TOTAL: 4.6% (51MB-130MB-221MB/49MB-128MB-219MB over 42)
+                 Top: 4.5% (51MB-129MB-221MB/49MB-127MB-219MB over 41)
+             Service: 0.08% (197MB-197MB-197MB/195MB-195MB-195MB over 1)
+          Service Rs: 0.00%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 10 / time 4.6%
+            Started count 8 / time 4.6%
+          Executing count 19 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 9 / time 4.6%
+            Started count 8 / time 4.6%
+          Executing count 35 / time 0.04%
+
+Summary:
+  * com.newugo.guider / u0a307:
+           TOTAL: 4.6% (51MB-130MB-221MB/49MB-128MB-219MB over 42)
+             Top: 4.5% (51MB-129MB-221MB/49MB-127MB-219MB over 41)
+         Service: 0.08% (197MB-197MB-197MB/195MB-195MB-195MB over 1)
+      Service Rs: 0.00%
+  * com.newugo.guider / u0a304:
+           TOTAL: 3.0% (25MB-142MB-201MB/23MB-139MB-199MB over 28)
+             Top: 2.8% (77MB-148MB-201MB/75MB-146MB-199MB over 26)
+         Service: 0.27% (25MB-53MB-82MB/23MB-52MB-80MB over 2)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+  * com.newugo.guider / u0a305:
+           TOTAL: 1.1% (2.5MB-102MB-195MB/1.3MB-100MB-193MB over 10)
+             Top: 1.1% (2.5MB-102MB-195MB/1.3MB-100MB-193MB over 10)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 0.33% (5.0MB-5.0MB-5.1MB/3.5MB-3.5MB-3.7MB over 4)
+  * com.newugo.guider / u0a306:
+           TOTAL: 0.22% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+             Top: 0.22% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+      Service Rs: 0.00%
+  * com.newugo.guider / u0a298:
+        (Cached): 100% (41MB-42MB-45MB/40MB-40MB-44MB over 206)
+
+Run time Stats:
+  SOff/Norm: +12h8m0s374ms
+       Mod : +5h57m42s436ms
+  SOn /Norm: +3h18m47s849ms
+       Mod : +43m14s846ms
+      TOTAL: +22h7m45s505ms
+
+          Start time: 2016-05-26 23:18:58
+  Total elapsed time: +23h19m17s150ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.newugo.guider / u0a298:
+      * com.newugo.guider / u0a298:
+            (Cached): 100% (42MB-44MB-45MB/41MB-42MB-44MB over 22)
+  * com.newugo.guider / u0a305:
+      * com.newugo.guider / u0a305:
+               TOTAL: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+                 Top: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+          Service Rs: 0.00%
+            Receiver: 0.02%
+            (Cached): 4.7% (5.0MB-5.0MB-5.1MB/3.5MB-3.5MB-3.7MB over 4)
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 5 / time 14%
+            Started count 4 / time 14%
+          Executing count 5 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 5 / time 14%
+            Started count 4 / time 14%
+          Executing count 7 / time 0.57%
+  * com.newugo.guider / u0a306:
+      * com.newugo.guider / u0a306:
+               TOTAL: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+                 Top: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+          Service Rs: 0.00%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 2 / time 3.1%
+            Started count 2 / time 3.1%
+          Executing count 1 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 2 / time 3.2%
+            Started count 2 / time 3.2%
+          Executing count 2 / time 0.00%
+  * com.newugo.guider / u0a307:
+      * com.newugo.guider / u0a307:
+               TOTAL: 67% (51MB-130MB-221MB/49MB-128MB-219MB over 42)
+                 Top: 66% (51MB-129MB-221MB/49MB-127MB-219MB over 41)
+             Service: 1.1% (197MB-197MB-197MB/195MB-195MB-195MB over 1)
+          Service Rs: 0.04%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 10 / time 66%
+            Started count 8 / time 66%
+          Executing count 19 / time 0.01%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 9 / time 67%
+            Started count 8 / time 67%
+          Executing count 35 / time 0.56%
+
+Summary:
+  * com.newugo.guider / u0a307:
+           TOTAL: 67% (51MB-130MB-221MB/49MB-128MB-219MB over 42)
+             Top: 66% (51MB-129MB-221MB/49MB-127MB-219MB over 41)
+         Service: 1.1% (197MB-197MB-197MB/195MB-195MB-195MB over 1)
+      Service Rs: 0.04%
+  * com.newugo.guider / u0a305:
+           TOTAL: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+             Top: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+      Service Rs: 0.00%
+        Receiver: 0.02%
+        (Cached): 4.7% (5.0MB-5.0MB-5.1MB/3.5MB-3.5MB-3.7MB over 4)
+  * com.newugo.guider / u0a306:
+           TOTAL: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+             Top: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+      Service Rs: 0.00%
+  * com.newugo.guider / u0a298:
+        (Cached): 100% (42MB-44MB-45MB/41MB-42MB-44MB over 22)
+
+Run time Stats:
+  SOff/Norm: +20m28s756ms
+       Mod : +1m49s50ms
+  SOn /Norm: +55m16s365ms
+       Mod : +14m26s0ms
+      TOTAL: +1h32m0s171ms
+
+          Start time: 2016-05-27 21:06:16
+  Total elapsed time: +1h32m0s171ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.newugo.guider / u0a298:
+      * com.newugo.guider / u0a298:
+            (Cached): 100% (42MB-44MB-45MB/41MB-42MB-44MB over 22)
+  * com.newugo.guider / u0a305:
+      * com.newugo.guider / u0a305:
+               TOTAL: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+                 Top: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+          Service Rs: 0.00%
+            Receiver: 0.02%
+            (Cached): 4.7% (5.0MB-5.0MB-5.1MB/3.5MB-3.5MB-3.7MB over 4)
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 5 / time 14%
+            Started count 4 / time 14%
+          Executing count 5 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 5 / time 14%
+            Started count 4 / time 14%
+          Executing count 7 / time 0.57%
+  * com.newugo.guider / u0a306:
+      * com.newugo.guider / u0a306:
+               TOTAL: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+                 Top: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+          Service Rs: 0.00%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 2 / time 3.1%
+            Started count 2 / time 3.1%
+          Executing count 1 / time 0.00%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 2 / time 3.2%
+            Started count 2 / time 3.2%
+          Executing count 2 / time 0.00%
+  * com.newugo.guider / u0a307:
+      * com.newugo.guider / u0a307:
+               TOTAL: 67% (51MB-130MB-221MB/49MB-128MB-219MB over 42)
+                 Top: 66% (51MB-129MB-221MB/49MB-127MB-219MB over 41)
+             Service: 1.1% (197MB-197MB-197MB/195MB-195MB-195MB over 1)
+          Service Rs: 0.04%
+      * cn.jpush.android.service.DaemonService:
+        Process: com.newugo.guider
+            Running count 10 / time 66%
+            Started count 8 / time 66%
+          Executing count 19 / time 0.01%
+      * cn.jpush.android.service.PushService:
+        Process: com.newugo.guider
+            Running count 9 / time 67%
+            Started count 8 / time 67%
+          Executing count 35 / time 0.56%
+
+Summary:
+  * com.newugo.guider / u0a307:
+           TOTAL: 67% (51MB-130MB-221MB/49MB-128MB-219MB over 42)
+             Top: 66% (51MB-129MB-221MB/49MB-127MB-219MB over 41)
+         Service: 1.1% (197MB-197MB-197MB/195MB-195MB-195MB over 1)
+      Service Rs: 0.04%
+  * com.newugo.guider / u0a305:
+           TOTAL: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+             Top: 15% (2.5MB-113MB-195MB/1.5MB-111MB-193MB over 9)
+      Service Rs: 0.00%
+        Receiver: 0.02%
+        (Cached): 4.7% (5.0MB-5.0MB-5.1MB/3.5MB-3.5MB-3.7MB over 4)
+  * com.newugo.guider / u0a306:
+           TOTAL: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+             Top: 3.2% (80MB-82MB-84MB/79MB-81MB-83MB over 2)
+      Service Rs: 0.00%
+  * com.newugo.guider / u0a298:
+        (Cached): 100% (42MB-44MB-45MB/41MB-42MB-44MB over 22)
+
+Run time Stats:
+  SOff/Norm: +20m28s756ms
+       Mod : +1m49s50ms
+  SOn /Norm: +55m16s53ms (running)
+       Mod : +14m26s0ms
+      TOTAL: +1h31m59s859ms
+
+          Start time: 2016-05-27 21:06:16
+  Total elapsed time: +1h32m0s237ms (partial) libdvm.so chromeview
